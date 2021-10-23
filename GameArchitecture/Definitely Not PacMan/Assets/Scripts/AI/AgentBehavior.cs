@@ -7,12 +7,6 @@ using UnityEngine.AI;
 public class AgentBehavior : MonoBehaviour
 {
     [SerializeField] float pursuitRange;
-    [SerializeField] float fleeRange;
-
-    [SerializeField] float leftWall;
-    [SerializeField] float rightWall;
-    [SerializeField] float topWall;
-    [SerializeField] float bottomWall;
 
     [SerializeField] Material wanderMaterial;
     [SerializeField] Material pursueMaterial;
@@ -28,8 +22,6 @@ public class AgentBehavior : MonoBehaviour
     GameObject[] pointsOfInterest;
 
     Vector3 targetLocation;
-
-    private bool evadingPlayer;
 
     // Start is called before the first frame update
     void Start()
@@ -143,27 +135,15 @@ public class AgentBehavior : MonoBehaviour
 
     void Flee()
     {
-        if((currentTask == Task.Fleeing && !AtTargetLocation()))
+        if(currentTask == Task.Fleeing && !AtTargetLocation())
         {
-            if(PlayerInRange(fleeRange) && evadingPlayer == false)
-            {
-                Debug.Log("Player in flee range");
-                evadingPlayer = true;
-
-                SelectNewTargetLocation();
-
-                return;
-            }
-
-            else if(!PlayerInRange(fleeRange)) { evadingPlayer = false; }
-
             navAgent.destination = targetLocation;
         }
 
-        else
+        else 
         {
             currentTask = Task.Fleeing;
-            
+
             gameObject.GetComponent<MeshRenderer>().material = fleeMaterial;
 
             SelectNewTargetLocation();
