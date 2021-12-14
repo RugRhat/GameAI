@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "SurvivalEditor Editor Win64 Development (Survival)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\sketc\\Documents\\School\\IGME 760\\Survival\\.vscode\\compileCommands_Survival.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\sketc\\Documents\\School\\IGME 760\\Survival\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

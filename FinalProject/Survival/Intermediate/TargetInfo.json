@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Survival",
+			"Path": "C:\\Users\\sketc\\Documents\\School\\IGME 760\\Survival\\Source\\Survival.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SurvivalEditor",
+			"Path": "C:\\Users\\sketc\\Documents\\School\\IGME 760\\Survival\\Source\\SurvivalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

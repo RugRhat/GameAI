@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\sketc\\\\Documents\\\\School\\\\IGME 760\\\\Survival\\\\Source\\\\Survival\\\\Survival.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\sketc\\Documents\\School\\IGME 760\\Survival\\.vscode\\compileCommands_Survival\\Survival.183.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\sketc\\\\Documents\\\\School\\\\IGME 760\\\\Survival\\\\Source\\\\Survival\\\\Survival.cpp",
+		"command": "cl.exe @\"C:\\Users\\sketc\\Documents\\School\\IGME 760\\Survival\\.vscode\\compileCommands_Survival\\Survival.183.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\sketc\\\\Documents\\\\School\\\\IGME 760\\\\Survival\\\\Source\\\\Survival\\\\Survival.h",
+		"command": "cl.exe @\"C:\\Users\\sketc\\Documents\\School\\IGME 760\\Survival\\.vscode\\compileCommands_Survival\\Survival.183.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\sketc\\\\Documents\\\\School\\\\IGME 760\\\\Survival\\\\Source\\\\Survival\\\\SurvivalGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\sketc\\Documents\\School\\IGME 760\\Survival\\.vscode\\compileCommands_Survival\\Survival.183.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\sketc\\\\Documents\\\\School\\\\IGME 760\\\\Survival\\\\Source\\\\Survival\\\\SurvivalGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\sketc\\Documents\\School\\IGME 760\\Survival\\.vscode\\compileCommands_Survival\\Survival.183.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
