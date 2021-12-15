@@ -33,8 +33,5 @@ void AttackTask::Execute()
 
     ControlledTank->StartFiring();
 
-    // ASurvivalGM* GameMode = Cast<ASurvivalGM>(UGameplayStatics::GetGameMode(TankController->GetWorld()));
-    // if(GameMode) { GameMode->NumOfTanksAttacking++; }
-
     TankAITask::Execute();
 }

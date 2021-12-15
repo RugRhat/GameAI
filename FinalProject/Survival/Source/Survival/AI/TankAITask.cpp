@@ -23,7 +23,6 @@ void TankAITask::Start()
 void TankAITask::Execute() 
 { 
     TaskManager* TaskManagerRef = TankController->GetTaskManager();
-    // if(TaskManagerRef->bTaskComplete) { return; }
 
     TaskManagerRef->bTaskComplete = true;
 

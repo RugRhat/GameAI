@@ -55,6 +55,8 @@ void TaskManager::StartNewTask()
 // Run task at the top of queue
 void TaskManager::RunTask()
 {
+    if(!bSafeToRunTask) { return; }
+
     TaskPriority TopTask;
 
     if(bTaskComplete && !TaskPriorityQueue.Num() == 0) 
@@ -81,7 +83,26 @@ void TaskManager::RunTask()
 // Refresh parameters based on changes in world
 void TaskManager::CheckParameters()
 {
-    FVector TankLocation = TankController->GetControlledTank()->GetActorLocation();
+    FVector TankLocation;
+
+    // Check if controller's tank pawn was assigned
+    AEnemyTank* Tank = TankController->GetControlledTank();
+    if(Tank) 
+    { 
+        TankLocation = Tank->GetActorLocation(); 
+        bSafeToRunTask = true;
+    }               
+
+    // If tank pawn was not assigned, tell controller to assigns references
+    else       
+    { 
+        TankController->DoubleCheckTanks();
+
+        bSafeToRunTask = false;
+        return;
+    }
+
+    // FVector TankLocation = TankController->GetControlledTank()->GetActorLocation();
     FVector PlayerLocation = TankController->GetPlayerTank()->GetActorLocation();
 
     float DistanceToPlayer = FVector(TankLocation - PlayerLocation).Size();
@@ -148,7 +169,7 @@ void TaskManager::UpdatePriorities()
 
     if(CurrentTaskType != NewTaskType)
     {
-        // Ensuring that tank doesn't keep firing despite change in task
+        // Ensures that tank doesn't keep firing despite change in task
         if(TankController->GetControlledTank()->IsFiring()) { TankController->GetControlledTank()->StopFiring(); }
 
         CurrentTaskType = NewTaskType;
@@ -167,9 +188,6 @@ TEnumAsByte<TaskType> TaskManager::PrioritizeHiding()
     PursueTaskRef->SetPriority(0);
 
     AttackTaskRef->bCanExecute = false;
-
-    float TankHealth = TankController->GetControlledTank()->GetHealth();
-    UE_LOG(LogTemp, Warning, TEXT("Health: %f"), TankHealth);
 
     return TaskType::HIDE; 
 }
@@ -192,4 +210,14 @@ TEnumAsByte<TaskType> TaskManager::PrioritizeAttacking()
     AttackTaskRef->bCanExecute = true;
 
     return TaskType::ATTACK;
+}
+
+// Destory task objects in preparation for destruction
+void TaskManager::DestroyTasks()
+{
+    UE_LOG(LogTemp, Warning, TEXT("%s: Destroying Tasks"), *TankController->GetName());
+
+    PursueTaskRef = NULL;
+    HideTaskRef = NULL;
+    AttackTaskRef = NULL;
 }

@@ -17,13 +17,6 @@ APlayerTank::APlayerTank()
     Camera->SetupAttachment(SpringArm);
 }
 
-// void APlayerTank::BeginPlay()
-// {
-//     Super::BeginPlay();
-
-//     // GetWorld()->GetTimerManager().SetTimer(HealthRegenTimerHandle, this, &APlayerTank::RegenHealth, HealthRegenRate, true, false);
-// }
-
 void APlayerTank::Tick(float DeltaTime)
 {
     Super::Tick(DeltaTime);
@@ -48,13 +41,3 @@ void APlayerTank::Rotate(float AxisValue)
 {
     AddControllerYawInput(AxisValue * RotateSpeed * GetWorld()->GetDeltaSeconds());
 }
-
-// void APlayerTank::HandleDestruction()
-// {
-//     Super::HandleDestruction();
-
-//     bAlive = false;
-
-//     SetActorHiddenInGame(true);
-//     SetActorTickEnabled(false);
-// }

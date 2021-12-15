@@ -5,6 +5,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "PlayerTank.h"
 #include "SurvivalGM.h"
+#include "AI/TankAI.h"
 
 void AEnemyTank::BeginPlay()
 {
@@ -20,20 +21,19 @@ void AEnemyTank::Fire()
 
 void AEnemyTank::StartFiring()
 {
-    // UE_LOG(LogTemp, Warning, TEXT("Start firing called..."));
-
-    // Update task according to TaskUpdateFrequency
+    // Call Fire() according to FireRate
     GetWorld()->GetTimerManager().SetTimer(FireTimer, this, &AEnemyTank::Fire, FireRate, true);
 
+    // Inform the game mode that the tank is currently attacking
     ASurvivalGM* GameMode = Cast<ASurvivalGM>(UGameplayStatics::GetGameMode(GetWorld()));
     if(GameMode) { GameMode->NumOfTanksAttacking++; }
 }
 
 void AEnemyTank::StopFiring()
 {
-    // UE_LOG(LogTemp, Warning, TEXT("Stop firing called..."));
     GetWorld()->GetTimerManager().ClearTimer(FireTimer);
 
+    // Inform the game mode that the tank is no longer attacking
     ASurvivalGM* GameMode = Cast<ASurvivalGM>(UGameplayStatics::GetGameMode(GetWorld()));
     if(GameMode) { GameMode->NumOfTanksAttacking--; }
 }
@@ -41,6 +41,17 @@ void AEnemyTank::StopFiring()
 bool AEnemyTank::IsFiring()
 {
     return GetWorld()->GetTimerManager().IsTimerActive(FireTimer);
+}
+
+void AEnemyTank::PrepForDestruction()
+{
+    UE_LOG(LogTemp, Warning, TEXT("%s: Prepping for destruction"), *GetName());
+
+    ATankAI* TankController = Cast<ATankAI>(GetController());
+    if(TankController) { TankController->HandleDestruction(); }
+
+    // Handle destruction after destruction delay
+    GetWorld()->GetTimerManager().SetTimer(DestructionTimer, this, &AEnemyTank::HandleDestruction, DestructionDelay, false);
 }
 
 void AEnemyTank::HandleDestruction()

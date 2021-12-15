@@ -31,10 +31,13 @@ public:
 	float GetFiringRange() const { return FiringRange; }
 	float GetCoverRange() const { return CoverRange; }
 
-private:
-	// UPROPERTY(VisibleAnywhere)
-	// TEnumAsByte<Goal> CurrentGoal;
+	void HandleDestruction();
 
+	bool ShouldContinue() const { return bShouldContinue; }
+
+	void DoubleCheckTanks();
+
+private:
 	UPROPERTY(EditDefaultsOnly)
 	float CoverRange = 1500.f;
 
@@ -45,34 +48,23 @@ private:
 	float FiringRange = 750.f;
 
 	UPROPERTY(EditDefaultsOnly)
-	float TaskUpdateFrequency;
+	float TaskUpdateFrequency = 0.5f;
 
 	void UpdateTask();
-
-	// void UpdatePlayerLocation();
-
-	// // FindCover();
-	// // Evade();
-	// bool AttackPlayer();
-	// bool EvadePlayer();
-	// void FindCover();
-
-	// bool bBiggerTank;
-	// bool bPlayerInRange = false;
+	void BeginTasks();
 
 	AEnemyTank* ControlledTank;
 	APlayerTank* PlayerTank;
 
 	TaskManager* TaskManagerRef;
-	FTimerHandle TaskTimer;
 
-	// FVector PlayerLocation;
-	// FVector TargetDestination;
+	FTimerHandle TaskTimer;
+	FTimerHandle DelayTimer;
+
+	bool bShouldContinue;
 
 protected:
 	virtual void BeginPlay() override;
 
 	virtual void Tick(float DeltaSeconds) override;
-
-	// virtual void OnMoveCompleted(FAIRequestID RequestID, EPathFollowingResult::Type Result) override;
 };

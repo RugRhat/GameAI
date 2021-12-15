@@ -15,7 +15,6 @@ class SURVIVAL_API AEnemyTank : public ABaseTank
 	GENERATED_BODY()
 
 public:
-	// bool GetPlayerAlive();
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 	AActor* CurrentCoverPoint;
 
@@ -28,6 +27,8 @@ public:
 	void StartFiring();
 	bool IsFiring();
 	void StopFiring();
+	
+	void PrepForDestruction(); 
 
 private:
 	UPROPERTY(EditDefaultsOnly)
@@ -35,14 +36,18 @@ private:
 
 	UPROPERTY(EditDefaultsOnly)
 	float FireRate = 0.5f;
+
+	UPROPERTY(EditDefaultsOnly)
+	float DestructionDelay = 0.5f;
 	
 	class APlayerTank* PlayerTank;
 
 	FTimerHandle FireTimer;
+	FTimerHandle DestructionTimer;
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-
 	virtual void HandleDestruction() override;
+
 };

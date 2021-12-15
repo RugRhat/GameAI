@@ -53,6 +53,7 @@ public:
 
 	void CheckParameters();
 	void RunTask();
+	void DestroyTasks();
 
 	bool bTaskComplete;
 
@@ -77,6 +78,8 @@ private:
 	TEnumAsByte<TaskType> PrioritizeHiding();
 	TEnumAsByte<TaskType> PrioritizeMovingToAttack();
 	TEnumAsByte<TaskType> PrioritizeAttacking();
+
+	bool bSafeToRunTask = false;
 	
 protected:
 	TMap<TaskType, TankAITask*> TaskMap;

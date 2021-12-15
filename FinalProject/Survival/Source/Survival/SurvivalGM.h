@@ -22,4 +22,33 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
 	int32 NumOfTanksAttacking;
 	
+	void TankDestroyed(ABaseTank* DestroyedTank);
+
+private:
+	void SpawnEnemy(TSubclassOf<AEnemyTank> EnemyClass);
+
+	class APlayerTank* PlayerTank;
+	
+	TArray<AActor*> SpawnPoints;
+
+protected:
+	UFUNCTION(BlueprintImplementableEvent)
+	void GameOver();
+
+	UPROPERTY(EditDefaultsOnly)
+	TSubclassOf<AEnemyTank> BigTankClass;
+
+	UPROPERTY(EditDefaultsOnly)
+	TSubclassOf<AEnemyTank> SmallTankClass;
+
+	UPROPERTY(EditDefaultsOnly)
+	TSubclassOf<AActor> SpawnPointClass;
+
+	UPROPERTY(EditDefaultsOnly)
+	float SpawnRange;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	int32 Score = 0;
+
+	virtual void BeginPlay() override;
 };

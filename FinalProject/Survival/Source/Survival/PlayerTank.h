@@ -17,7 +17,8 @@ class SURVIVAL_API APlayerTank : public ABaseTank
 public: 
 	APlayerTank();
 
-	// bool GetPlayerAlive() { return bAlive; }
+	UFUNCTION(BlueprintPure)
+	float GetHealthForUI() { return HealthComponent->GetHealth() / HealthComponent->GetMaxHealth(); }
 
 protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
@@ -31,12 +32,6 @@ protected:
 
 	void Move(float AxisValue);
 	void Rotate(float AxisValue);
-
-	// bool bAlive = true;
-
-	
-
-	// virtual void BeginPlay() override;
 
 	virtual void Tick(float DeltaTime) override;
 

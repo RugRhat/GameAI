@@ -1,0 +1,1292 @@
+﻿Log file open, 12/15/21 17:20:00
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Survival
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.193653
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DarkerNodes
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cleaning working directory: C:/Users/sketc/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 5900HX with Radeon Graphics        , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.15-22.20.01:811][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.15-22.20.01:811][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.15-22.20.01:811][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.15-22.20.01:821][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.15-22.20.01:821][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.15-22.20.01:822][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.15-22.20.01:822][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.15-22.20.01:822][  0]LogHAL: Display: Platform has ~ 16 GB [16540856320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.15-22.20.01:822][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.15-22.20.01:822][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.15-22.20.01:822][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.15-22.20.01:823][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.15-22.20.01:824][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.15-22.20.01:824][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.15-22.20.01:824][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.15-22.20.01:824][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.15-22.20.01:824][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Editor.ini]
+[2021.12.15-22.20.01:824][  0]LogInit: Computer: LAPTOP-PO0VBTLK
+[2021.12.15-22.20.01:824][  0]LogInit: User: sketc
+[2021.12.15-22.20.01:824][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.12.15-22.20.01:824][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.15-22.20.01:824][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2021.12.15-22.20.01:824][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.15-22.20.01:824][  0]LogMemory: Process Physical Memory: 137.93 MB used, 137.94 MB peak
+[2021.12.15-22.20.01:824][  0]LogMemory: Process Virtual Memory: 113.53 MB used, 113.53 MB peak
+[2021.12.15-22.20.01:824][  0]LogMemory: Physical Memory: 9700.50 MB used,  6074.09 MB free, 15774.59 MB total
+[2021.12.15-22.20.01:824][  0]LogMemory: Virtual Memory: 134206256.00 MB used,  11474.37 MB free, 134217728.00 MB total
+[2021.12.15-22.20.01:828][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.15-22.20.01:857][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.15-22.20.01:857][  0]LogInit: Using OS detected language (en-US).
+[2021.12.15-22.20.01:857][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.15-22.20.01:863][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.15-22.20.02:039][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.15-22.20.02:046][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.15-22.20.02:062][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.15-22.20.02:062][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.15-22.20.02:170][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.15-22.20.02:170][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.15-22.20.02:170][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.15-22.20.02:170][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.15-22.20.02:244][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2021.12.15-22.20.02:244][  0]LogD3D11RHI:       6023/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.15-22.20.02:262][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2021.12.15-22.20.02:262][  0]LogD3D11RHI:       496/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.12.15-22.20.02:264][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.15-22.20.02:264][  0]LogD3D11RHI:       0/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.15-22.20.02:264][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.15-22.20.02:271][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.15-22.20.02:271][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.15-22.20.02:271][  0]LogWindows: EnumDisplayDevices:
+[2021.12.15-22.20.02:272][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:0 D:1)
+[2021.12.15-22.20.02:272][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.12.15-22.20.02:272][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.12.15-22.20.02:272][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:1 D:1)
+[2021.12.15-22.20.02:272][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.12.15-22.20.02:272][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.12.15-22.20.02:273][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.12.15-22.20.02:273][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.12.15-22.20.02:273][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2021.12.15-22.20.02:273][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2021.12.15-22.20.02:273][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2021.12.15-22.20.02:273][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2021.12.15-22.20.02:318][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.15-22.20.02:318][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.15-22.20.02:318][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.15-22.20.02:345][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.12.15-22.20.02:346][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.15-22.20.02:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.15-22.20.02:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.15-22.20.02:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.15-22.20.02:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.15-22.20.02:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.15-22.20.02:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.15-22.20.02:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.15-22.20.02:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.15-22.20.02:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.15-22.20.02:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.15-22.20.02:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.15-22.20.02:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.15-22.20.02:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.15-22.20.02:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.15-22.20.02:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.15-22.20.02:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.15-22.20.02:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.15-22.20.02:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.15-22.20.02:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.15-22.20.02:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.15-22.20.02:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.15-22.20.02:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.15-22.20.02:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.15-22.20.02:711][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.15-22.20.02:716][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.15-22.20.02:756][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.15-22.20.02:756][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Intermediate/Shaders/WorkingDirectory/1580/).
+[2021.12.15-22.20.02:757][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sketc/AppData/Local/Temp/UnrealShaderWorkingDir/83C57CBA48908D4AB0984387FA77150C/'.
+[2021.12.15-22.20.02:757][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.15-22.20.02:757][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.15-22.20.03:302][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.15-22.20.03:348][  0]LogDerivedDataCache: Loaded boot cache 0.05s 81MB C:/Users/sketc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.15-22.20.03:349][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sketc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.12.15-22.20.03:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sketc/Documents/School/IGME 760/Survival/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.15-22.20.03:349][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.15-22.20.03:349][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sketc/Documents/School/IGME 760/Survival/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.15-22.20.03:349][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.15-22.20.03:359][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.15-22.20.03:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.15-22.20.03:359][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.15-22.20.03:366][  0]LogDerivedDataCache: Speed tests for C:/Users/sketc/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.15-22.20.03:366][  0]LogDerivedDataCache: Display: Performance to C:/Users/sketc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=400.47MBs, RandomWriteSpeed=215.46MBs. Assigned SpeedClass 'Local'
+[2021.12.15-22.20.03:367][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sketc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.15-22.20.03:367][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.15-22.20.03:367][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.15-22.20.03:401][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.15-22.20.03:402][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.15-22.20.03:419][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.12.15-22.20.03:593][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.15-22.20.03:593][  0]LogInit: Active device profile: [000002A18E10F400][000002A18D47D700 49] Windows
+[2021.12.15-22.20.03:593][  0]LogInit: Profiles: [000002A18E10F400][000002A18D47D700 49] Windows, [000002A18E0FCE00][000002A18D86F840 49] WindowsNoEditor, [000002A18E10CE00][000002A18D8899C0 49] WindowsServer, [000002A18E0FEC00][000002A18D88DB40 49] WindowsClient, [000002A18E10EB00][000002A18E8A9CC0 49] IOS, [000002A18E0FD700][000002A18E8D0180 49] iPadAir, [000002A18E10D600][000002A18E8D4300 49] iPadAir2, [000002A18DEDC600][000002A18E8DC5C0 49] IPadPro, [000002A18DEDC700][000002A18E8D8600 49] iPadAir3, [000002A18E10E500][000002A18E8E0780 49] iPadAir4, [000002A18DEDF200][000002A18E8E8900 49] iPadMini2, [000002A18E10DB00][000002A18E8ECA80 49] iPadMini3, [000002A18DEDDF00][000002A18E8F0C00 49] iPadMini4, [000002A18E10FC00][000002A18E8F4D80 49] iPadMini5, [000002A18DE07E00][000002A18E905040 49] iPhone6, [000002A18DE07F00][000002A18E901080 49] iPodTouch6, [000002A18E0FC600][000002A18E90D340 49] iPhone7, [000002A18E0FE400][000002A18E909380 49] iPodTouch7, [000002A18DE05200][000002A18E91D500 49] iPhone5S, [000002A18E0FD600][000002A18D885640 49] iPhone6Plus, [000002A18DE06700][000002A18E921780 49] iPhone6S, [000002A18E0FC300][000002A18E9258C0 49] iPhone6SPlus, [000002A18DE05A00][000002A18E929A00 49] iPhone7Plus, [000002A18E0FF200][000002A18E931B80 49] iPhoneSE, [000002A18DE07A00][000002A18E935D00 49] iPhone8, [000002A18E0FE600][000002A18E9381C0 49] iPhone8Plus, [000002A18DE07200][000002A18E954340 49] iPhoneX, [000002A18E0FFF00][000002A18E9584C0 49] iPhoneXS, [000002A18DE05400][000002A18E95C640 49] iPhoneXSMax, [000002A18E0FC500][000002A18E9607C0 49] iPhoneXR, [000002A18DE04F00][000002A18E964940 49] iPhone11, [000002A18E0FF900][000002A18E968AC0 49] iPhone11Pro, [000002A18DE05800][000002A18E98CC40 49] iPhone11ProMax, [000002A18E0FF800][000002A18E990DC0 49] iPhoneSE2, [000002A18DE05300][000002A18E994F40 49] iPhone12Mini, [000002A18E0FCC00][000002A18E9990C0 49] iPhone12, [000002A18DE04D00][000002A18E99D240 49] iPhone12Pro, [000002A18E0FCF00][000002A18E9A13C0 49] iPhone12ProMax, [000002A18DE06200][000002A18E9A5540 49] iPadPro105, [000002A18E0FD800][000002A18E92D680 49] iPadPro129, [000002A18DE06900][000002A18E9A97C0 49] iPadPro97, [000002A18E0FF700][000002A18E9AD900 49] iPadPro2_129, [000002A18DE05C00][000002A18E9B1A40 49] iPad5, [000002A18E0FC800][000002A18E9B9BC0 49] iPad6, [000002A18DE06E00][000002A18E9BDD40 49] iPad7, [000002A18E0FD200][000002A18E9C0200 49] iPad8, [000002A18DE06000][000002A18E9C4380 49] iPadPro11, [000002A18E0FE800][000002A18E9C8500 49] iPadPro2_11, [000002A18DE04500][000002A18E9CC680 49] iPadPro3_129, [000002A18E0FF400][000002A18E9D0800 49] iPadPro4_129, [000002A18DE05700][000002A18E9D4980 49] AppleTV, [000002A18E0FEB00][000002A18E9D8B00 49] AppleTV4K, [000002A18DE04800][000002A18E9DCC80 49] TVOS, [000002A18E0FDA00][000002A18E9E0E00 49] Mac, [000002A18DE07B00][000002A18E9E4F80 49] MacClient, [000002A18E0FC400][000002A18E9E9100 49] MacNoEditor, [000002A18DE04A00][000002A18E9ED280 49] MacServer, [000002A18E0FED00][000002A18E9F1400 49] Linux, [000002A18DE06B00][000002A18E9F5580 49] LinuxAArch64, [000002A18E0FDE00][000002A18E9F9700 49] LinuxNoEditor, [000002A18DE04C00][000002A18E9B5840 49] LinuxAArch64NoEditor, [000002A18E10CC00][000002A18E9FD980 49] LinuxClient, [000002A18E185600][000002A18EA01AC0 49] LinuxAArch64Client, [000002A18E10DA00][000002A18EA09C40 49] LinuxServer, [000002A18E184300][000002A18EA0C100 49] LinuxAArch64Server, [000002A18E10E100][000002A18EA10280 49] Android, [000002A18E185A00][000002A18EA14400 49] Android_Low, [000002A18E10FE00][000002A18EA18580 49] Android_Mid, [000002A18E184600][000002A18EA1C700 49] Android_High, [000002A18E10D700][000002A18EA20880 49] Android_Default, [000002A18E185700][000002A18EA24A00 49] Android_Adreno4xx, [000002A18E10E800][000002A18EA28B80 49] Android_Adreno5xx_Low, [000002A18E184A00][000002A18EA2CD00 49] Android_Adreno5xx, [000002A18DE06800][000002A18EA30E80 49] Android_Adreno6xx, [000002A18E0FD500][000002A18EA35000 49] Android_Adreno6xx_Vulkan, [000002A18DE04E00][000002A18EA39180 49] Android_Mali_T6xx, [000002A18E0FEA00][000002A18EA3D300 49] Android_Mali_T7xx, [000002A18DE06600][000002A18EA41480 49] Android_Mali_T8xx, [000002A18E0FFB00][000002A18EA45600 49] Android_Mali_G71, [000002A18DE06500][000002A18EA49780 49] Android_Mali_G72, [000002A18E0FDC00][000002A18EA058C0 49] Android_Mali_G72_Vulkan, [000002A18DE05B00][000002A18EA4DA00 49] Android_Mali_G76, [000002A18E0FD000][000002A18EA51B40 49] Android_Mali_G76_Vulkan, [000002A18DE04100][000002A18EA59CC0 49] Android_Mali_G77, [000002A18E0FD900][000002A18EA5C180 49] Android_Mali_G77_Vulkan, [000002A18DE07100][000002A18EA60300 49] Android_Vulkan_SM5, [000002A18E0FEF00][000002A18EA64480 49] Android_PowerVR_G6xxx, [000002A18DE07300][000002A18EA68600 49] Android_PowerVR_GT7xxx, [000002A18E0FE300][000002A18EA6C780 49] Android_PowerVR_GE8xxx, [000002A18DE05600][000002A18EA70900 49] Android_PowerVR_GM9xxx, [000002A18E185D00][000002A18EA74A80 49] Android_PowerVR_GM9xxx_Vulkan, [000002A18DE07000][000002A18EA78C00 49] Android_TegraK1, [000002A18E184700][000002A18EA7CD80 49] Android_Unknown_Vulkan, [000002A18DE07900][000002A18EA80F00 49] Lumin, [000002A18E184900][000002A18EA85080 49] Lumin_Desktop, [000002A18DE05100][000002A18EA89200 49] HoloLens, 
+[2021.12.15-22.20.03:669][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.15-22.20.03:669][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.15-22.20.03:669][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.15-22.20.03:669][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.15-22.20.03:669][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.15-22.20.03:681][  0]LogNetVersion: Survival 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2558592047)
+[2021.12.15-22.20.03:969][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.15-22.20.04:003][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.034319 seconds
+[2021.12.15-22.20.04:008][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.12.15-22.20.04:008][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.12.15-22.20.04:008][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.15-22.20.04:195][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.15-22.20.04:199][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.15-22.20.04:316][  0]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.04:349][  0]SourceControl: Source control is disabled
+[2021.12.15-22.20.04:349][  0]SourceControl: Source control is disabled
+[2021.12.15-22.20.04:351][  0]SourceControl: Source control is disabled
+[2021.12.15-22.20.04:355][  0]SourceControl: Source control is disabled
+[2021.12.15-22.20.04:357][  0]SourceControl: Source control is disabled
+[2021.12.15-22.20.04:364][  0]LogUProjectInfo: Found projects:
+[2021.12.15-22.20.04:486][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.15-22.20.04:500][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.15-22.20.04:500][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.15-22.20.04:581][  0]LogOcInput: OculusInput pre-init called
+[2021.12.15-22.20.04:698][  0]LogCollectionManager: Loaded 0 collections in 0.001245 seconds
+[2021.12.15-22.20.04:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Collections/' took 0.00s
+[2021.12.15-22.20.04:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sketc/Documents/School/IGME 760/Survival/Content/Developers/sketc/Collections/' took 0.00s
+[2021.12.15-22.20.04:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sketc/Documents/School/IGME 760/Survival/Content/Collections/' took 0.00s
+[2021.12.15-22.20.04:859][  0]LogEngine: Initializing Engine...
+[2021.12.15-22.20.04:860][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.15-22.20.04:860][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.15-22.20.04:860][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.15-22.20.04:937][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.15-22.20.04:943][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.15-22.20.04:953][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.15-22.20.04:955][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.15-22.20.04:955][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.15-22.20.04:956][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-22.20.04:956][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-22.20.04:956][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-22.20.04:956][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-22.20.04:956][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-22.20.04:956][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-22.20.04:956][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-22.20.04:956][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-22.20.04:956][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-22.20.04:956][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-22.20.04:966][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-22.20.04:967][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-22.20.04:987][  0]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.15-22.20.04:989][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-22.20.04:991][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-22.20.04:991][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-22.20.04:992][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-22.20.04:992][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-22.20.04:992][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-22.20.04:993][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-22.20.04:993][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-22.20.04:993][  0]LogInit: FAudioDevice initialized.
+[2021.12.15-22.20.04:993][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.15-22.20.04:993][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.15-22.20.05:039][  0]LogDerivedDataCache: Saved boot cache 0.05s 81MB C:/Users/sketc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.15-22.20.05:040][  0]LogInit: Texture streaming: Enabled
+[2021.12.15-22.20.05:049][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.12.15-22.20.05:052][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.15-22.20.05:052][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={70C447EA-45C9-EC98-6080-F2ABE24AD756}
+[2021.12.15-22.20.05:052][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.15-22.20.05:053][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.15-22.20.05:069][  0]LogInit: Transaction tracking system initialized
+[2021.12.15-22.20.05:083][  0]BlueprintLog: New page: Editor Load
+[2021.12.15-22.20.05:134][  0]LocalizationService: Localization service is disabled
+[2021.12.15-22.20.05:150][  0]TimingProfiler: Initialize
+[2021.12.15-22.20.05:150][  0]TimingProfiler: OnSessionChanged
+[2021.12.15-22.20.05:150][  0]LoadingProfiler: Initialize
+[2021.12.15-22.20.05:150][  0]LoadingProfiler: OnSessionChanged
+[2021.12.15-22.20.05:150][  0]NetworkingProfiler: Initialize
+[2021.12.15-22.20.05:150][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.15-22.20.05:150][  0]MemoryProfiler: Initialize
+[2021.12.15-22.20.05:150][  0]MemoryProfiler: OnSessionChanged
+[2021.12.15-22.20.05:249][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.15-22.20.05:249][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.15-22.20.05:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sketc/Documents/School/IGME 760/Survival/Content/' took 0.00s
+[2021.12.15-22.20.05:481][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.15-22.20.05:484][  0]SourceControl: Source control is disabled
+[2021.12.15-22.20.05:484][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.944
+[2021.12.15-22.20.05:484][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-22.20.05:484][  0]LightingResults: New page: Lighting Build
+[2021.12.15-22.20.05:485][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-22.20.05:485][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-22.20.05:485][  0]MapCheck: New page: Map Check
+[2021.12.15-22.20.05:485][  0]LightingResults: New page: Lighting Build
+[2021.12.15-22.20.05:491][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.12.15-22.20.05:506][  0]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.05:507][  0]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.05:592][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Arena'.
+[2021.12.15-22.20.05:593][  0]LogAIModule: Creating AISystem for world Arena
+[2021.12.15-22.20.05:609][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-22.20.05:616][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.12.15-22.20.05:616][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-22.20.05:616][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2021.12.15-22.20.05:616][  0]LogFileHelpers: Loading map 'Arena' took 0.132
+[2021.12.15-22.20.05:619][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.079
+[2021.12.15-22.20.05:950][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.12.15-22.20.05:999][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.15-22.20.06:351][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0079 seconds. Added 3611 classes and 867 folders.
+[2021.12.15-22.20.06:353][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.15-22.20.06:354][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.15-22.20.06:354][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:354][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-22.20.06:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.12.15-22.20.06:355][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.15-22.20.06:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.15-22.20.06:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.12.15-22.20.06:355][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.15-22.20.06:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.15-22.20.06:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.12.15-22.20.06:356][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-22.20.06:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-22.20.06:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.12.15-22.20.06:356][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.15-22.20.06:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.15-22.20.06:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.12.15-22.20.06:356][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.15-22.20.06:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.15-22.20.06:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.12.15-22.20.06:357][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.15-22.20.06:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.15-22.20.06:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.12.15-22.20.06:357][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.15-22.20.06:357][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:357][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.15-22.20.06:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.12.15-22.20.06:358][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.15-22.20.06:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.15-22.20.06:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.12.15-22.20.06:358][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.15-22.20.06:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.15-22.20.06:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.12.15-22.20.06:358][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.15-22.20.06:358][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:358][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.15-22.20.06:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.12.15-22.20.06:359][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.15-22.20.06:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.15-22.20.06:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.12.15-22.20.06:359][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-22.20.06:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-22.20.06:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.12.15-22.20.06:359][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.15-22.20.06:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.15-22.20.06:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.12.15-22.20.06:360][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.15-22.20.06:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.15-22.20.06:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.12.15-22.20.06:360][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.15-22.20.06:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-22.20.06:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.12.15-22.20.06:361][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.15-22.20.06:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.15-22.20.06:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.12.15-22.20.06:361][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.15-22.20.06:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.15-22.20.06:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.12.15-22.20.06:361][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-22.20.06:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-22.20.06:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.12.15-22.20.06:362][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-22.20.06:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-22.20.06:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.12.15-22.20.06:362][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.15-22.20.06:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.15-22.20.06:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.12.15-22.20.06:362][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.15-22.20.06:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.15-22.20.06:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.12.15-22.20.06:363][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.15-22.20.06:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:363][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.15-22.20.06:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.12.15-22.20.06:363][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.15-22.20.06:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:363][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.15-22.20.06:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.12.15-22.20.06:364][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.15-22.20.06:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.15-22.20.06:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.12.15-22.20.06:364][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.15-22.20.06:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.15-22.20.06:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.15-22.20.06:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.12.15-22.20.06:399][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.15-22.20.06:400][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.12.15-22.20.06:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-22.20.06:419][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-22.20.06:423][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-22.20.06:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-22.20.06:446][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.15-22.20.06:450][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.15-22.20.06:498][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.15-22.20.06:552][  0]LogRenderer: Reallocating scene render targets to support 1468x680 Format 10 NumSamples 1 (Frame:1).
+[2021.12.15-22.20.06:846][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.15-22.20.06:847][  0]LogLoad: (Engine Initialization) Total time: 6.31 seconds
+[2021.12.15-22.20.06:847][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.15-22.20.06:847][  0]LogInit: First time updating LLM stats...
+[2021.12.15-22.20.07:277][  0]LogAssetRegistry: Asset discovery search completed in 3.8588 seconds
+[2021.12.15-22.20.07:278][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.12.15-22.20.07:296][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.15-22.20.47:418][401]Candidate modules for hot reload:
+[2021.12.15-22.20.47:418][401]  Survival
+[2021.12.15-22.20.47:419][401]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Survival,2212 SurvivalEditor Win64 Development -Project="C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject" "C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject"  -IgnoreJunk]
+[2021.12.15-22.20.47:420][401]Warning: Starting HotReload took  0.0s.
+[2021.12.15-22.20.48:844][484]CompilerResultsLog: New page: Compilation - Dec 15, 2021, 12:20:48 PM
+[2021.12.15-22.20.48:844][484]CompilerResultsLog: Building SurvivalEditor...
+[2021.12.15-22.20.48:844][484]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.15-22.20.48:844][484]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.12.15-22.20.48:844][484]CompilerResultsLog:   [1/3] UE4Editor-Survival-2212.lib
+[2021.12.15-22.20.48:844][484]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-2212.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-2212.exp
+[2021.12.15-22.20.48:844][484]CompilerResultsLog:   [2/3] UE4Editor-Survival-2212.dll
+[2021.12.15-22.20.48:844][484]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-2212.suppressed.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-2212.suppressed.exp
+[2021.12.15-22.20.48:844][484]CompilerResultsLog:   [3/3] SurvivalEditor.target
+[2021.12.15-22.20.48:844][484]CompilerResultsLog: Total time in Parallel executor: 0.86 seconds
+[2021.12.15-22.20.48:844][484]CompilerResultsLog: Total execution time: 1.34 seconds
+[2021.12.15-22.20.48:844][484]LogMainFrame: MainFrame: Module compiling took 1.432 seconds
+[2021.12.15-22.20.48:871][484]LogClass: TaskType HotReload.
+[2021.12.15-22.20.48:880][484]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.48:881][484]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.15-22.20.48:882][484]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.15-22.20.48:920][484]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0096 seconds. Added 3611 classes and 867 folders.
+[2021.12.15-22.20.48:920][484]Display: HotReload took  1.5s.
+[2021.12.15-22.20.50:024][550]Candidate modules for hot reload:
+[2021.12.15-22.20.50:024][550]  Survival
+[2021.12.15-22.20.50:024][550]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Survival,5362 SurvivalEditor Win64 Development -Project="C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject" "C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject"  -IgnoreJunk]
+[2021.12.15-22.20.50:025][550]Warning: Starting HotReload took  0.0s.
+[2021.12.15-22.20.51:373][625]CompilerResultsLog: New page: Compilation - Dec 15, 2021, 12:20:51 PM
+[2021.12.15-22.20.51:373][625]CompilerResultsLog: Building SurvivalEditor...
+[2021.12.15-22.20.51:373][625]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.15-22.20.51:373][625]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.12.15-22.20.51:373][625]CompilerResultsLog:   [1/3] UE4Editor-Survival-5362.lib
+[2021.12.15-22.20.51:373][625]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-5362.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-5362.exp
+[2021.12.15-22.20.51:373][625]CompilerResultsLog:   [2/3] UE4Editor-Survival-5362.dll
+[2021.12.15-22.20.51:373][625]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-5362.suppressed.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-5362.suppressed.exp
+[2021.12.15-22.20.51:373][625]CompilerResultsLog:   [3/3] SurvivalEditor.target
+[2021.12.15-22.20.51:373][625]CompilerResultsLog: Total time in Parallel executor: 0.78 seconds
+[2021.12.15-22.20.51:373][625]CompilerResultsLog: Total execution time: 1.29 seconds
+[2021.12.15-22.20.51:373][625]LogMainFrame: MainFrame: Module compiling took 1.352 seconds
+[2021.12.15-22.20.51:394][625]LogClass: TaskType HotReload.
+[2021.12.15-22.20.51:401][625]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.51:402][625]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.15-22.20.51:403][625]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.15-22.20.51:427][625]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0079 seconds. Added 3611 classes and 867 folders.
+[2021.12.15-22.20.51:427][625]Display: HotReload took  1.4s.
+[2021.12.15-22.20.52:111][666]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-22.20.52:115][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-22.20.52:115][666]PIE: New page: PIE session: Arena (Dec 15, 2021, 12:20:52 PM)
+[2021.12.15-22.20.52:116][666]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.15-22.20.52:117][666]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.15-22.20.52:117][666]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2021.12.15-22.20.52:124][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006251s)
+[2021.12.15-22.20.52:124][666]LogAIModule: Creating AISystem for world Arena
+[2021.12.15-22.20.52:125][666]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2021.12.15-22.20.52:125][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.007250s)
+[2021.12.15-22.20.52:128][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.12.15-22.20.52:133][666]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.15-22.20.52:134][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-22.20.52:134][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-22.20.52:134][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-22.20.52:134][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-22.20.52:134][666]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-22.20.52:134][666]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-22.20.52:134][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-22.20.52:134][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-22.20.52:134][666]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-22.20.52:134][666]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-22.20.52:136][666]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-22.20.52:136][666]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-22.20.52:143][666]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.15-22.20.52:143][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-22.20.52:143][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-22.20.52:143][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-22.20.52:144][666]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-22.20.52:144][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-22.20.52:144][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-22.20.52:157][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-22.20.52:157][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-22.20.52:157][666]LogInit: FAudioDevice initialized.
+[2021.12.15-22.20.52:157][666]LogAudio: Display: Audio Device (ID: 2) registered with world 'Arena'.
+[2021.12.15-22.20.52:164][666]LogLinker: Error: HOTRELOADED_EnemyTank_4 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Blueprints/BP_SurvivalGM.uasset)
+[2021.12.15-22.20.52:165][666]LogLinker: Error: HOTRELOADED_EnemyTank_4 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Blueprints/BP_SurvivalGM.uasset)
+[2021.12.15-22.20.52:165][666]LogLinker: Error: HOTRELOADED_EnemyTank_4 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Blueprints/BP_SurvivalGM.uasset)
+[2021.12.15-22.20.52:168][666]LogLoad: Game class is 'BP_SurvivalGM_C'
+[2021.12.15-22.20.52:171][666]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2021.12.15-17.20.52
+[2021.12.15-22.20.52:171][666]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.52:171][666]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.52:171][666]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.52:171][666]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.52:171][666]LogWorld: Bringing up level for play took: 0.002734
+[2021.12.15-22.20.52:172][666]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.12.15-22.20.52:193][666]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.12.15-22.20.52:195][666]LogTemp: Warning: BP_BigEnemyTank_2: My location: X=1560.000 Y=640.000 Z=110.275
+[2021.12.15-22.20.52:195][666]LogTemp: Warning: BP_SmallEnemyTank2_8: My location: X=-1840.000 Y=370.000 Z=110.275
+[2021.12.15-22.20.52:195][666]LogTemp: Warning: BP_SmallEnemyTank3_11: My location: X=-220.000 Y=-890.000 Z=110.275
+[2021.12.15-22.20.52:195][666]LogTemp: Warning: BP_SmallEnemyTank_5: My location: X=-850.000 Y=-370.000 Z=110.275
+[2021.12.15-22.20.52:195][666]PIE: Server logged in
+[2021.12.15-22.20.52:196][666]PIE: Play in editor total start time 0.082 seconds.
+[2021.12.15-22.20.54:115][781]LogTemp: Warning: Priorities Changed To: HIDE
+[2021.12.15-22.20.54:115][781]LogTemp: Warning: Priorities Changed To: PURSUE
+[2021.12.15-22.20.54:115][781]LogTemp: Warning: Priorities Changed To: HIDE
+[2021.12.15-22.20.54:115][781]LogTemp: Warning: Priorities Changed To: HIDE
+[2021.12.15-22.20.55:615][871]LogTemp: Warning: Priorities Changed To: ATTACK
+[2021.12.15-22.20.55:815][883]LogTemp: Warning: BP_SmallEnemyTank2_8: Prepping for destruction
+[2021.12.15-22.20.55:815][883]LogTemp: Warning: BP_TankAI_C_1: Handling destruction
+[2021.12.15-22.20.55:815][883]LogTemp: Warning: BP_TankAI_C_1: Destroying Tasks
+[2021.12.15-22.20.55:815][883]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.20.55:815][883]LogTemp: Warning: BP_SmallEnemyTank_C_0: My location: X=2450.000 Y=0.000 Z=110.150
+[2021.12.15-22.20.57:815][  3]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.20.58:315][ 33]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.20.58:814][ 63]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.20.59:315][ 93]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.20.59:814][123]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.00:315][153]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.00:814][183]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.01:315][213]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.01:814][243]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.02:314][273]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.02:814][303]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.03:315][333]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.03:814][363]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.04:315][393]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.04:814][423]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.05:314][453]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.05:814][483]LogTemp: Error: No Reference to controlled tank.
+[2021.12.15-22.21.06:194][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-22.21.06:194][504]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arena
+[2021.12.15-22.21.06:194][504]LogWorld: UWorld::CleanupWorld for Arena, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-22.21.06:195][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-22.21.06:205][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-22.21.06:206][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-22.21.06:209][504]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-22.21.06:210][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-22.21.06:210][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-22.21.06:224][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-22.21.06:227][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.15-22.21.06:280][506]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.12.15-22.21.44:292][277]Candidate modules for hot reload:
+[2021.12.15-22.21.44:292][277]  Survival
+[2021.12.15-22.21.44:292][277]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Survival,7996 SurvivalEditor Win64 Development -Project="C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject" "C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject"  -IgnoreJunk]
+[2021.12.15-22.21.44:294][277]Warning: Starting HotReload took  0.0s.
+[2021.12.15-22.21.47:471][466]CompilerResultsLog: New page: Compilation - Dec 15, 2021, 12:21:47 PM
+[2021.12.15-22.21.47:471][466]CompilerResultsLog: Building SurvivalEditor...
+[2021.12.15-22.21.47:471][466]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.15-22.21.47:471][466]CompilerResultsLog: Building 4 actions with 16 processes...
+[2021.12.15-22.21.47:471][466]CompilerResultsLog:   [1/4] TaskManager.cpp
+[2021.12.15-22.21.47:471][466]CompilerResultsLog:   [2/4] UE4Editor-Survival-7996.lib
+[2021.12.15-22.21.47:471][466]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7996.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7996.exp
+[2021.12.15-22.21.47:471][466]CompilerResultsLog:   [3/4] UE4Editor-Survival-7996.dll
+[2021.12.15-22.21.47:471][466]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7996.suppressed.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7996.suppressed.exp
+[2021.12.15-22.21.47:471][466]CompilerResultsLog:   [4/4] SurvivalEditor.target
+[2021.12.15-22.21.47:471][466]CompilerResultsLog: Total time in Parallel executor: 2.61 seconds
+[2021.12.15-22.21.47:471][466]CompilerResultsLog: Total execution time: 3.11 seconds
+[2021.12.15-22.21.47:471][466]LogMainFrame: MainFrame: Module compiling took 3.181 seconds
+[2021.12.15-22.21.47:503][466]LogClass: TaskType HotReload.
+[2021.12.15-22.21.47:511][466]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.21.47:512][466]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.15-22.21.47:514][466]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.15-22.21.47:545][466]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3611 classes and 867 folders.
+[2021.12.15-22.21.47:545][466]Display: HotReload took  3.3s.
+[2021.12.15-22.21.48:995][553]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-22.21.49:000][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-22.21.49:000][553]PIE: New page: PIE session: Arena (Dec 15, 2021, 12:21:49 PM)
+[2021.12.15-22.21.49:000][553]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2021.12.15-22.21.49:008][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007231s)
+[2021.12.15-22.21.49:008][553]LogAIModule: Creating AISystem for world Arena
+[2021.12.15-22.21.49:009][553]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2021.12.15-22.21.49:009][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.008314s)
+[2021.12.15-22.21.49:012][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.12.15-22.21.49:013][553]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.15-22.21.49:014][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-22.21.49:014][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-22.21.49:014][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-22.21.49:014][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-22.21.49:014][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-22.21.49:014][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-22.21.49:014][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-22.21.49:014][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-22.21.49:014][553]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-22.21.49:014][553]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-22.21.49:017][553]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-22.21.49:017][553]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-22.21.49:025][553]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.15-22.21.49:025][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-22.21.49:025][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-22.21.49:025][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-22.21.49:026][553]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-22.21.49:026][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-22.21.49:026][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-22.21.49:042][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-22.21.49:042][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-22.21.49:042][553]LogInit: FAudioDevice initialized.
+[2021.12.15-22.21.49:042][553]LogAudio: Display: Audio Device (ID: 3) registered with world 'Arena'.
+[2021.12.15-22.21.49:049][553]LogLoad: Game class is 'BP_SurvivalGM_C'
+[2021.12.15-22.21.49:051][553]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2021.12.15-17.21.49
+[2021.12.15-22.21.49:052][553]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.21.49:052][553]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.21.49:052][553]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.21.49:052][553]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.21.49:052][553]LogWorld: Bringing up level for play took: 0.003152
+[2021.12.15-22.21.49:053][553]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.12.15-22.21.49:055][553]LogTemp: Warning: BP_BigEnemyTank_2: My location: X=1560.000 Y=640.000 Z=110.275
+[2021.12.15-22.21.49:055][553]LogTemp: Warning: BP_SmallEnemyTank2_8: My location: X=-1840.000 Y=370.000 Z=110.275
+[2021.12.15-22.21.49:055][553]LogTemp: Warning: BP_SmallEnemyTank3_11: My location: X=-220.000 Y=-890.000 Z=110.275
+[2021.12.15-22.21.49:055][553]LogTemp: Warning: BP_SmallEnemyTank_5: My location: X=-850.000 Y=-370.000 Z=110.275
+[2021.12.15-22.21.49:055][553]PIE: Server logged in
+[2021.12.15-22.21.49:056][553]PIE: Play in editor total start time 0.057 seconds.
+[2021.12.15-22.21.51:005][670]LogTemp: Warning: Priorities Changed To: HIDE
+[2021.12.15-22.21.51:005][670]LogTemp: Warning: Priorities Changed To: PURSUE
+[2021.12.15-22.21.51:005][670]LogTemp: Warning: Priorities Changed To: HIDE
+[2021.12.15-22.21.51:005][670]LogTemp: Warning: Priorities Changed To: HIDE
+[2021.12.15-22.21.51:505][700]LogTemp: Warning: Priorities Changed To: ATTACK
+[2021.12.15-22.21.51:922][725]LogTemp: Warning: BP_SmallEnemyTank2_8: Prepping for destruction
+[2021.12.15-22.21.51:922][725]LogTemp: Warning: BP_TankAI_C_1: Handling destruction
+[2021.12.15-22.21.51:922][725]LogTemp: Warning: BP_TankAI_C_1: Destroying Tasks
+[2021.12.15-22.21.51:922][725]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.21.51:922][725]LogTemp: Warning: BP_SmallEnemyTank_C_0: My location: X=2450.000 Y=0.000 Z=110.150
+[2021.12.15-22.21.53:922][845]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.54:422][875]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.54:921][905]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.55:421][935]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.55:922][965]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.56:421][995]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.56:921][ 25]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.57:421][ 55]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.58:127][ 78]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.58:461][ 79]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.58:939][ 89]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.59:442][119]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.21.59:939][149]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.00:439][179]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.00:940][209]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.01:439][239]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.01:939][269]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.02:440][299]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.02:940][329]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.03:440][359]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.03:940][389]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.04:440][419]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.04:941][449]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.05:441][479]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.05:940][509]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.06:440][539]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.06:940][569]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.07:440][599]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.07:940][629]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.08:440][659]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.08:940][689]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.09:441][719]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.09:941][749]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.10:440][779]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.10:941][809]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.11:440][839]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.11:940][869]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.12:440][899]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.12:940][929]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.13:440][959]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.13:941][989]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.14:441][ 19]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.14:941][ 49]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.15:441][ 79]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.15:940][109]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.16:441][139]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.16:941][169]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.17:455][199]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.17:953][229]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.18:453][259]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.18:952][289]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.19:455][319]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.19:953][349]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.20:452][379]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.20:953][409]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.21:453][439]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.22:008][472]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.22:509][502]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.23:010][532]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.23:610][568]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.23:627][569]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.15-22.22.24:120][597]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.24:620][627]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.25:120][657]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.25:621][686]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.26:121][716]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.26:620][746]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.27:120][776]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.27:621][806]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.28:121][836]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.28:621][866]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.29:120][896]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.29:621][926]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.30:120][956]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.30:621][986]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.31:120][ 16]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.31:621][ 46]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.32:113][ 75]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.32:613][105]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.33:113][135]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.33:613][165]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.34:113][195]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.34:613][225]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.35:113][255]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.35:613][285]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.36:113][315]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.36:615][345]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.37:114][375]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.37:615][405]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.38:441][435]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.38:775][436]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.39:112][437]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.39:606][448]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.40:106][478]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.40:606][508]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.41:107][538]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.41:606][568]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.42:106][598]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.42:606][628]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.43:106][658]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.43:670][665]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.44:121][692]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.44:621][722]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.45:121][752]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.45:622][782]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.46:121][812]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.46:607][841]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.47:107][871]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.47:576][899]LogEditorViewport: Clicking on Actor (LMB): BP_SmallEnemyTank_C (BP_SmallEnemyTank)
+[2021.12.15-22.22.47:654][900]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.48:111][927]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.48:619][957]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.49:110][986]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.49:608][ 16]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.50:109][ 46]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.50:608][ 76]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.51:108][106]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.51:608][136]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.52:109][166]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.52:608][196]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.53:108][226]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.53:608][256]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.54:108][286]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.54:608][316]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.55:108][346]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.55:608][376]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.56:108][406]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.56:608][436]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.57:108][466]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.57:608][496]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.58:108][526]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.58:608][556]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.59:108][586]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.22.59:611][616]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.02:694][801]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.03:193][830]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.03:694][860]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.04:195][889]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.04:694][919]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.05:195][949]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.05:695][979]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.06:285][ 14]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.06:784][ 44]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.07:249][ 72]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SmallEnemyTank.BP_SmallEnemyTank
+[2021.12.15-22.23.07:337][ 72]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.12.15-22.23.08:578][ 73]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.08:802][ 86]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.09:302][116]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.09:802][146]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.10:302][176]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.10:802][206]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.11:375][237]LogTemp: Error: BP_TankAI_C_4's TaskManager: No Reference to controlled tank.
+[2021.12.15-22.23.11:915][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-22.23.11:915][267]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arena
+[2021.12.15-22.23.11:915][267]LogWorld: UWorld::CleanupWorld for Arena, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-22.23.11:916][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-22.23.11:923][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-22.23.11:926][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-22.23.11:940][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-22.23.11:940][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-22.23.11:941][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-22.23.11:955][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-22.23.11:958][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.12.15-22.23.12:463][269]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.12.15-22.23.13:989][361]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-22.23.13:989][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-22.23.14:024][361]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.15-22.23.14:037][361]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SmallEnemyTank.BP_SmallEnemyTank
+[2021.12.15-22.23.14:359][361]LogSlate: Took 0.004878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.15-22.26.46:845][892]LogHotReload: New module detected: UE4Editor-Survival-0006.dll
+[2021.12.15-22.26.47:532][895]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.15-22.26.47:577][895]LogClass: TaskType HotReload.
+[2021.12.15-22.26.47:584][895]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.26.47:584][895]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.15-22.26.47:586][895]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.15-22.26.47:634][895]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0080 seconds. Added 3611 classes and 867 folders.
+[2021.12.15-22.26.47:636][895]Display: HotReload took  0.1s.
+[2021.12.15-22.27.02:288][938]LogHotReload: New module detected: UE4Editor-Survival-0007.dll
+[2021.12.15-22.27.02:972][941]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.15-22.27.03:023][941]LogClass: TaskType HotReload.
+[2021.12.15-22.27.03:030][941]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.27.03:031][941]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.15-22.27.03:034][941]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.15-22.27.03:087][941]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3611 classes and 867 folders.
+[2021.12.15-22.27.03:090][941]Display: HotReload took  0.1s.
+[2021.12.15-22.27.06:350][  4]Candidate modules for hot reload:
+[2021.12.15-22.27.06:350][  4]  Survival
+[2021.12.15-22.27.06:350][  4]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Survival,7194 SurvivalEditor Win64 Development -Project="C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject" "C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject"  -IgnoreJunk]
+[2021.12.15-22.27.06:352][  4]Warning: Starting HotReload took  0.0s.
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog: New page: Compilation - Dec 15, 2021, 12:27:07 PM
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog: Building SurvivalEditor...
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog:   [1/3] UE4Editor-Survival-7194.lib
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7194.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7194.exp
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog:   [2/3] UE4Editor-Survival-7194.dll
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7194.suppressed.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7194.suppressed.exp
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog:   [3/3] SurvivalEditor.target
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog: Total time in Parallel executor: 0.89 seconds
+[2021.12.15-22.27.07:836][ 88]CompilerResultsLog: Total execution time: 1.40 seconds
+[2021.12.15-22.27.07:836][ 88]LogMainFrame: MainFrame: Module compiling took 1.488 seconds
+[2021.12.15-22.27.07:871][ 88]LogClass: TaskType HotReload.
+[2021.12.15-22.27.07:879][ 88]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.27.07:879][ 88]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.15-22.27.07:883][ 88]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.15-22.27.07:945][ 88]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3611 classes and 867 folders.
+[2021.12.15-22.27.07:945][ 88]Display: HotReload took  1.6s.
+[2021.12.15-22.27.10:002][197]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-22.27.10:007][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-22.27.10:007][197]PIE: New page: PIE session: Arena (Dec 15, 2021, 12:27:10 PM)
+[2021.12.15-22.27.10:007][197]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2021.12.15-22.27.10:015][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008606s)
+[2021.12.15-22.27.10:016][197]LogAIModule: Creating AISystem for world Arena
+[2021.12.15-22.27.10:017][197]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2021.12.15-22.27.10:017][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.009879s)
+[2021.12.15-22.27.10:127][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.12.15-22.27.10:128][197]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.15-22.27.10:129][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-22.27.10:129][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-22.27.10:129][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-22.27.10:129][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-22.27.10:129][197]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-22.27.10:129][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-22.27.10:129][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-22.27.10:129][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-22.27.10:129][197]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.15-22.27.10:129][197]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-22.27.10:132][197]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-22.27.10:132][197]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-22.27.10:138][197]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.15-22.27.10:139][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-22.27.10:139][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-22.27.10:139][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-22.27.10:139][197]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-22.27.10:139][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-22.27.10:139][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-22.27.10:152][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-22.27.10:153][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-22.27.10:153][197]LogInit: FAudioDevice initialized.
+[2021.12.15-22.27.10:153][197]LogAudio: Display: Audio Device (ID: 4) registered with world 'Arena'.
+[2021.12.15-22.27.10:159][197]LogLoad: Game class is 'BP_SurvivalGM_C'
+[2021.12.15-22.27.10:161][197]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2021.12.15-17.27.10
+[2021.12.15-22.27.10:161][197]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.27.10:161][197]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.27.10:161][197]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.27.10:161][197]LogTemp: Warning: Task Manager Created...
+[2021.12.15-22.27.10:162][197]LogWorld: Bringing up level for play took: 0.002471
+[2021.12.15-22.27.10:162][197]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.12.15-22.27.10:165][197]LogTemp: Warning: BP_BigEnemyTank_2: My location: X=1560.000 Y=640.000 Z=108.000
+[2021.12.15-22.27.10:165][197]LogTemp: Warning: BP_SmallEnemyTank2_8: My location: X=-1840.000 Y=370.000 Z=108.000
+[2021.12.15-22.27.10:165][197]LogTemp: Warning: BP_SmallEnemyTank3_11: My location: X=-220.000 Y=-890.000 Z=108.000
+[2021.12.15-22.27.10:165][197]LogTemp: Warning: BP_SmallEnemyTank_5: My location: X=-850.000 Y=-370.000 Z=108.000
+[2021.12.15-22.27.10:165][197]PIE: Server logged in
+[2021.12.15-22.27.10:166][197]PIE: Play in editor total start time 0.159 seconds.
+[2021.12.15-22.27.15:257][418]LogWindows: Error: === Critical error: ===
+[2021.12.15-22.27.15:257][418]LogWindows: Error: 
+[2021.12.15-22.27.15:257][418]LogWindows: Error: Fatal error!
+[2021.12.15-22.27.15:257][418]LogWindows: Error: 
+[2021.12.15-22.27.15:257][418]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000148
+[2021.12.15-22.27.15:257][418]LogWindows: Error: 
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ffb05296aee UE4Editor-Survival-7194.dll!TaskManager::CheckParameters() [C:\Users\sketc\Documents\School\IGME 760\Survival\Source\Survival\AI\TaskManager.cpp:96]
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ffb05295ad8 UE4Editor-Survival-7194.dll!ATankAI::BeginTasks() [C:\Users\sketc\Documents\School\IGME 760\Survival\Source\Survival\AI\TankAI.cpp:51]
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ffacfb47aeb UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ffacfb76f69 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ffacf296ca4 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ffadc3e9423 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ffadcd050e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ff6c2e79bc2 UE4Editor.exe!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ff6c2e9117c UE4Editor.exe!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ff6c2e9125a UE4Editor.exe!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ff6c2ea52bd UE4Editor.exe!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ff6c2ea7fea UE4Editor.exe!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ffb34af7034 KERNEL32.DLL!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: [Callstack] 0x00007ffb34f02651 ntdll.dll!UnknownFunction []
+[2021.12.15-22.27.15:257][418]LogWindows: Error: 
+[2021.12.15-22.27.15:260][418]LogExit: Executing StaticShutdownAfterError
+[2021.12.15-22.27.15:263][418]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.12.15-22.27.15:263][418]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.12.15-22.27.15:270][418]Log file closed, 12/15/21 17:27:15

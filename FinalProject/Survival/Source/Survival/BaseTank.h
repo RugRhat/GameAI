@@ -21,8 +21,6 @@ public:
 
 	void RegenHealth() { HealthComponent->RegenHealth(); }
 
-	// void CharDestroyed();
-
 	bool TankAlive() { return bAlive; }
 
 	virtual void Fire();

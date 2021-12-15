@@ -2,6 +2,8 @@
 
 
 #include "HealthComponent.h"
+#include "BaseTank.h"
+// #include "EnemyTank.h"
 #include "Kismet/GameplayStatics.h"
 #include "SurvivalGM.h"
 
@@ -17,8 +19,6 @@ UHealthComponent::UHealthComponent()
 void UHealthComponent::BeginPlay()
 {
 	Super::BeginPlay();
-
-	// Health = MaxHealth;
 
 	GameModeRef = Cast<ASurvivalGM>(UGameplayStatics::GetGameMode(GetWorld()));
 
@@ -39,12 +39,15 @@ void UHealthComponent::TakeDamage(AActor* DamagedActor, float Damage, const clas
 	if(Damage == 0 || Health == 0){return;}
 
 	Health = FMath::Clamp(Health - Damage, 0.f, MaxHealth);
-		
-	// UE_LOG(LogTemp, Warning, TEXT("Damage Taken: %f. Current Health: %f"), Damage, Health);
 
-	// if(Health <= 0){
-	// 	if(GameModeRef) { GameModeRef->ActorDied(Owner); } 
-	// 	else { UE_LOG(LogTemp, Warning, TEXT("Health component has no reference to GameMode")); }
-	// }
+	if(Health <= 0)
+	{
+		if(GameModeRef) 
+		{ 
+			ABaseTank* MyTank = Cast<ABaseTank>(Owner);
+			if(MyTank && MyTank->TankAlive()) { GameModeRef->TankDestroyed(MyTank); } 
+		}
+		else { UE_LOG(LogTemp, Warning, TEXT("Health component has no reference to GameMode")); }
+	}
 }
 

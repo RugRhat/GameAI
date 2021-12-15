@@ -50,8 +50,6 @@ void HideTask::Execute()
 {
     if(TargetActor == nullptr || !bCanExecute) { return; }
 
-    // if(GameMode &&  GameMode->NumOfTanksAttacking != 0) { GameMode->NumOfTanksAttacking--; }
-
     TankController->SetFocus(TargetActor);
     TankController->MoveToActor(TargetActor);
 
