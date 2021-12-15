@@ -29,13 +29,14 @@ public:
 
 	float GetAttackRange() const { return AttackRange; }
 	float GetFiringRange() const { return FiringRange; }
+	float GetCoverRange() const { return CoverRange; }
 
 private:
 	// UPROPERTY(VisibleAnywhere)
 	// TEnumAsByte<Goal> CurrentGoal;
 
 	UPROPERTY(EditDefaultsOnly)
-	float PossibleAttackRange = 1000.f;
+	float CoverRange = 1500.f;
 
 	UPROPERTY(EditDefaultsOnly)
 	float AttackRange = 1000.f;

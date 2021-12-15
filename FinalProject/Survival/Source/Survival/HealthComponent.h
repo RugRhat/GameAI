@@ -17,7 +17,7 @@ public:
 	UHealthComponent();
 
 	float GetMaxHealth() const { return MaxHealth; }
-	float GetHealth() const { return Health/MaxHealth; }
+	float GetHealth() const { return Health; }
 
 	void RegenHealth();
 

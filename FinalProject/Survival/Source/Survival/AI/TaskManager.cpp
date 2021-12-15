@@ -4,7 +4,9 @@
 #include "TaskManager.h"
 #include "AttackTask.h"
 #include "HideTask.h"
+#include "Kismet/GameplayStatics.h"
 #include "Kismet/KismetMathLibrary.h"
+#include "Survival/SurvivalGM.h"
 #include "PursueTask.h"
 
 TaskManager::TaskManager(ATankAI* AIController)
@@ -24,7 +26,6 @@ TaskManager::TaskManager(ATankAI* AIController)
     AddTask(HIDE, HideTaskRef);
 
     // AddTask(WANDER, new WanderTask(TankController));
-    // AddTask(RETREAT, new RetreatTask(TankController));
 }
 
 TaskManager::~TaskManager() { }
@@ -37,25 +38,28 @@ void TaskManager::AddTask(TaskType TaskType, TankAITask* Task)
 void TaskManager::StartNewTask()
 {
     bTaskComplete = false;
+    
+    // Clear heap before queueing new tasks
+    TaskPriorityQueue.Empty();
 
     for(auto Task : TaskMap)
     {
-        if(Task.Value->GetPriority() == 0) { continue; }
+        // Don't add a task with a 0 priority to queue.
+        if(Task.Value->GetPriority() == 0) { continue; }            
+
         Task.Value->Start();
         TaskPriorityQueue.HeapPush(TaskPriority(Task.Value), TaskPriorityPredicate());
     }
 }
 
+// Run task at the top of queue
 void TaskManager::RunTask()
 {
     TaskPriority TopTask;
 
     if(bTaskComplete && !TaskPriorityQueue.Num() == 0) 
     {
-        UE_LOG(LogTemp, Warning, TEXT("Popping old task. Current heap size: %d"), TaskPriorityQueue.Num());
-        // UE_LOG(LogTemp, Warning, TEXT("Predicate: %s"), *TaskPriorityPredicate().ToString());
         TaskPriorityQueue.HeapPopDiscard(TaskPriorityPredicate()); 
-        UE_LOG(LogTemp, Warning, TEXT("New heap size: %d"), TaskPriorityQueue.Num());
         bTaskComplete = false;
     }
     
@@ -65,19 +69,16 @@ void TaskManager::RunTask()
 
         StartNewTask();
     }
+
     else 
     { 
         TopTask =  TaskPriorityQueue.HeapTop(); 
-        // UE_LOG(LogTemp, Warning, TEXT("Top Task: %d"), TopTask.Task);
-
         CurrentTask = TopTask.Task;
-
-        // UE_LOG(LogTemp, Warning, TEXT("CurrentTask: %s"), *UEnum::GetValueAsString(CurrentTaskType));
-
         CurrentTask->Execute();
     }
 }
 
+// Refresh parameters based on changes in world
 void TaskManager::CheckParameters()
 {
     FVector TankLocation = TankController->GetControlledTank()->GetActorLocation();
@@ -104,13 +105,17 @@ void TaskManager::CheckParameters()
     else { bAtFullHealth = false; }
 
     // Check if other tanks attacking player
-    // Get game mode and check if 
-    // if(NumOfTanksAttacking > 1) { bOtherAttackers = true; }
-    // else { bOtherAttackers = false; }
+    ASurvivalGM* GameMode = Cast<ASurvivalGM>(UGameplayStatics::GetGameMode(TankController->GetWorld()));
+    if(GameMode) 
+    { 
+        if(GameMode->NumOfTanksAttacking > 0) { bOtherAttackers = true; }
+        else { bOtherAttackers = false; }
+    }
 
     UpdatePriorities();
 }
 
+// Update priorities based on changes in parameters
 void TaskManager::UpdatePriorities()
 {
     TEnumAsByte<TaskType> NewTaskType;
@@ -119,7 +124,7 @@ void TaskManager::UpdatePriorities()
     if(bNeedToHeal) { NewTaskType = PrioritizeHiding(); }
 
     // Big tanks will always prioritize attacking player
-    if(TankController->GetControlledTank()->GetTankSize()) 
+    else if(TankController->GetControlledTank()->GetTankSize()) 
     { 
         if(bPlayerInFiringRange) { NewTaskType = PrioritizeAttacking(); }
         else {NewTaskType = PrioritizeMovingToAttack(); }
@@ -143,10 +148,12 @@ void TaskManager::UpdatePriorities()
 
     if(CurrentTaskType != NewTaskType)
     {
+        // Ensuring that tank doesn't keep firing despite change in task
         if(TankController->GetControlledTank()->IsFiring()) { TankController->GetControlledTank()->StopFiring(); }
 
         CurrentTaskType = NewTaskType;
         UE_LOG(LogTemp, Warning, TEXT("Priorities Changed To: %s"), *UEnum::GetValueAsString(CurrentTaskType));
+
         StartNewTask();
     }
 
@@ -155,30 +162,31 @@ void TaskManager::UpdatePriorities()
 
 TEnumAsByte<TaskType> TaskManager::PrioritizeHiding()
 {
-    HideTaskRef->SetPriority(1);
-    PursueTaskRef->SetPriority(0);
+    HideTaskRef->SetPriority(1);            // Finding cover given highest priority
     AttackTaskRef->SetPriority(0);
+    PursueTaskRef->SetPriority(0);
 
     AttackTaskRef->bCanExecute = false;
+
+    float TankHealth = TankController->GetControlledTank()->GetHealth();
+    UE_LOG(LogTemp, Warning, TEXT("Health: %f"), TankHealth);
 
     return TaskType::HIDE; 
 }
 
 TEnumAsByte<TaskType> TaskManager::PrioritizeMovingToAttack()
 {
-    PursueTaskRef->SetPriority(1);
-    AttackTaskRef->SetPriority(0);
+    PursueTaskRef->SetPriority(1);          // Pursuing player set to highest priority
+    AttackTaskRef->SetPriority(2);          // Attacking player given secondary priority
     HideTaskRef->SetPriority(0);
-
-    // if(bPlayerInFiringRange) { AttackTaskRef->bCanExecute = true; }
 
     return TaskType::PURSUE;
 }
 
 TEnumAsByte<TaskType> TaskManager::PrioritizeAttacking()
 {
-    AttackTaskRef->SetPriority(1);
-    PursueTaskRef->SetPriority(0);
+    AttackTaskRef->SetPriority(1);          // Attacking player set to highest priority
+    PursueTaskRef->SetPriority(2);          // Pursuing player given secondary priority
     HideTaskRef->SetPriority(0);
 
     AttackTaskRef->bCanExecute = true;

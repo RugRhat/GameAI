@@ -3,3 +3,8 @@
 
 #include "SurvivalGM.h"
 
+// bool ASurvivalGM::IsCoverPointFree(UPARAM(ref) AActor* CoverPoint)
+// {
+//     return true;
+// }
+

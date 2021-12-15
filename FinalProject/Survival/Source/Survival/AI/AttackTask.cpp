@@ -2,6 +2,8 @@
 
 
 #include "AttackTask.h"
+#include "Kismet/GameplayStatics.h"
+#include "Survival/SurvivalGM.h"
 #include "TankAI.h"
 #include "TaskManager.h"
 
@@ -30,6 +32,9 @@ void AttackTask::Execute()
     UE_LOG(LogTemp, Warning, TEXT("Attacking..."));
 
     ControlledTank->StartFiring();
+
+    // ASurvivalGM* GameMode = Cast<ASurvivalGM>(UGameplayStatics::GetGameMode(TankController->GetWorld()));
+    // if(GameMode) { GameMode->NumOfTanksAttacking++; }
 
     TankAITask::Execute();
 }

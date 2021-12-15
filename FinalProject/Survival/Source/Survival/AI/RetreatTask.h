@@ -17,4 +17,6 @@ public:
 
 	void Start() override;
 	void Execute();
+
+	TArray<AActor*> CoverPoints;
 };

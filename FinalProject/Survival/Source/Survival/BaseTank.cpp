@@ -17,6 +17,13 @@ ABaseTank::ABaseTank()
 	HealthComponent = CreateDefaultSubobject<UHealthComponent>(TEXT("Health Component"));
 }
 
+void ABaseTank::BeginPlay()
+{
+	Super::BeginPlay();
+
+	GetWorld()->GetTimerManager().SetTimer(HealthRegenTimerHandle, this, &ABaseTank::RegenHealth, HealthRegenRate, true, false);
+}
+
 void ABaseTank::Fire()
 {
 	if(ProjectileClass == nullptr) { return; } 

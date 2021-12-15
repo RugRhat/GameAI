@@ -9,15 +9,16 @@
 UHealthComponent::UHealthComponent()
 {
 	PrimaryComponentTick.bCanEverTick = false;
-}
 
+	Health = MaxHealth;
+}
 
 // Called when the game starts
 void UHealthComponent::BeginPlay()
 {
 	Super::BeginPlay();
 
-	Health = MaxHealth;
+	// Health = MaxHealth;
 
 	GameModeRef = Cast<ASurvivalGM>(UGameplayStatics::GetGameMode(GetWorld()));
 
@@ -26,7 +27,6 @@ void UHealthComponent::BeginPlay()
 	if(Owner) { Owner->OnTakeAnyDamage.AddDynamic(this, &UHealthComponent::TakeDamage); } 
 	else { UE_LOG(LogTemp, Warning, TEXT("Health component has no reference to owner")); }
 }
-
 
 void UHealthComponent::RegenHealth()
 {
@@ -40,6 +40,8 @@ void UHealthComponent::TakeDamage(AActor* DamagedActor, float Damage, const clas
 
 	Health = FMath::Clamp(Health - Damage, 0.f, MaxHealth);
 		
+	// UE_LOG(LogTemp, Warning, TEXT("Damage Taken: %f. Current Health: %f"), Damage, Health);
+
 	// if(Health <= 0){
 	// 	if(GameModeRef) { GameModeRef->ActorDied(Owner); } 
 	// 	else { UE_LOG(LogTemp, Warning, TEXT("Health component has no reference to GameMode")); }

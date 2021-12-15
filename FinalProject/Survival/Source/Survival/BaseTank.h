@@ -35,6 +35,9 @@ protected:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)
 	UHealthComponent* HealthComponent;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	float HealthRegenRate = 2.f;
+
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	TSubclassOf<class AProjectile> ProjectileClass;
 
@@ -48,5 +51,9 @@ protected:
 	// TSubclassOf<UCameraShake> DeathShake;
 
 	bool bAlive = true;
+
+	FTimerHandle HealthRegenTimerHandle;
+
+	virtual void BeginPlay() override;
 
 };

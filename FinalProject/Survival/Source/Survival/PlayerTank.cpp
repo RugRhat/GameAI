@@ -17,12 +17,12 @@ APlayerTank::APlayerTank()
     Camera->SetupAttachment(SpringArm);
 }
 
-void APlayerTank::BeginPlay()
-{
-    Super::BeginPlay();
+// void APlayerTank::BeginPlay()
+// {
+//     Super::BeginPlay();
 
-    GetWorld()->GetTimerManager().SetTimer(HealthRegenTimerHandle, this, &APlayerTank::RegenHealth, HealthRegenRate, true, false);
-}
+//     // GetWorld()->GetTimerManager().SetTimer(HealthRegenTimerHandle, this, &APlayerTank::RegenHealth, HealthRegenRate, true, false);
+// }
 
 void APlayerTank::Tick(float DeltaTime)
 {

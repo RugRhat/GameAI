@@ -16,6 +16,8 @@ class SURVIVAL_API AEnemyTank : public ABaseTank
 
 public:
 	// bool GetPlayerAlive();
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	AActor* CurrentCoverPoint;
 
 	virtual void Fire() override;
 

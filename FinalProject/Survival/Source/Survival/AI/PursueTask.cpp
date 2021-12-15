@@ -3,6 +3,8 @@
 
 #include "PursueTask.h"
 #include "Navigation/PathFollowingComponent.h"
+#include "Kismet/GameplayStatics.h"
+#include "Survival/SurvivalGM.h"
 #include "TankAI.h"
 #include "TaskManager.h"
 
@@ -25,10 +27,8 @@ void PursueTask::Execute()
     if(!bCanExecute) { return; }
 
     TankController->SetFocus(TargetActor);
-
-    if(!(TankController->GetMoveStatus() == EPathFollowingStatus::Type::Moving)) 
-        TankController->MoveToActor(TargetActor, TankController->GetFiringRange()/2);
-
+    TankController->MoveToActor(TargetActor, TankController->GetFiringRange() / 1.5);
+        
     // If tank has stopped moving, complete execution
     if(TankController->GetMoveStatus() == EPathFollowingStatus::Type::Idle) { TankAITask::Execute(); }
 }

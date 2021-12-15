@@ -29,17 +29,14 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float RotateSpeed = 70.f;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	float HealthRegenRate = 2.f;
-
 	void Move(float AxisValue);
 	void Rotate(float AxisValue);
 
 	// bool bAlive = true;
 
-	FTimerHandle HealthRegenTimerHandle;
+	
 
-	virtual void BeginPlay() override;
+	// virtual void BeginPlay() override;
 
 	virtual void Tick(float DeltaTime) override;
 

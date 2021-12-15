@@ -15,12 +15,22 @@ void RetreatTask::Start()
 {
     TankAITask::Start();
 
-    TargetLocation = FVector(0, 0, 0);
-    // If ControlledTank is biggerTank && Health > 50 { return; }
-    // If
+    // UGameplayStatics::GetAllActorsOfClass(TankController->GetWorld(), TankController->CoverPointClass, CoverPoints);
 
-    // Find destination to move to.
-    // TargetLocation = CurrentLocation + FleeDistance;
+    // TargetActor = nullptr;
+    // float DistanceToCover = 100000.f;
+
+    // for(AActor* Point : CoverPoints)
+    // {
+    //     if(Point->GetActorLocation() == ControlledTank->GetActorLocation()) { continue; }
+    //     float DistanceToPoint = (ControlledTank->GetActorLocation() - Point->GetActorLocation()).Size();
+
+    //     if(DistanceToPoint < DistanceToCover) 
+    //     { 
+    //         DistanceToCover = DistanceToPoint;
+    //         TargetActor = Point;
+    //     }
+    // }
 }
 
 void RetreatTask::Execute()
