@@ -16,6 +16,7 @@ public:
 	// Sets default values for this component's properties
 	UHealthComponent();
 
+	float GetMaxHealth() const { return MaxHealth; }
 	float GetHealth() const { return Health/MaxHealth; }
 
 	void RegenHealth();
@@ -23,14 +24,15 @@ public:
 private:
 	class ASurvivalGM* GameModeRef;
 
-	float Health = 0.f;
-
 	AActor* Owner;
 
 protected:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
 	float MaxHealth = 100.f;
 
+	UPROPERTY(VisibleAnywhere)
+	float Health = 0.f;
+	
 	// Called when the game starts
 	virtual void BeginPlay() override;
 

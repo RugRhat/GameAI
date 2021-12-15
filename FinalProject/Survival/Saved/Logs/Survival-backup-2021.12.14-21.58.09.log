@@ -1,0 +1,1501 @@
+﻿Log file open, 12/14/21 15:25:50
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Survival
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.213445
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin DarkerNodes
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 5900HX with Radeon Graphics        , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.14-20.25.51:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.14-20.25.51:705][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.14-20.25.51:706][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.14-20.25.51:706][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.14-20.25.51:719][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.14-20.25.51:719][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.14-20.25.51:720][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.14-20.25.51:720][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.14-20.25.51:720][  0]LogHAL: Display: Platform has ~ 16 GB [16540856320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.14-20.25.51:720][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.14-20.25.51:720][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.14-20.25.51:720][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Scalability.ini]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.14-20.25.51:721][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.14-20.25.51:722][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.14-20.25.51:722][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.14-20.25.51:722][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.14-20.25.51:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Engine.ini]
+[2021.12.14-20.25.51:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Config/Windows/Editor.ini]
+[2021.12.14-20.25.51:722][  0]LogInit: Computer: LAPTOP-PO0VBTLK
+[2021.12.14-20.25.51:722][  0]LogInit: User: sketc
+[2021.12.14-20.25.51:722][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.12.14-20.25.51:722][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.14-20.25.51:722][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2021.12.14-20.25.51:722][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.14-20.25.51:722][  0]LogMemory: Process Physical Memory: 137.48 MB used, 137.49 MB peak
+[2021.12.14-20.25.51:722][  0]LogMemory: Process Virtual Memory: 113.29 MB used, 113.29 MB peak
+[2021.12.14-20.25.51:722][  0]LogMemory: Physical Memory: 9869.88 MB used,  5904.71 MB free, 15774.59 MB total
+[2021.12.14-20.25.51:722][  0]LogMemory: Virtual Memory: 134212272.00 MB used,  5459.08 MB free, 134217728.00 MB total
+[2021.12.14-20.25.51:727][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.14-20.25.51:763][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.14-20.25.51:764][  0]LogInit: Using OS detected language (en-US).
+[2021.12.14-20.25.51:764][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.14-20.25.51:770][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.14-20.25.51:941][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.14-20.25.51:947][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.14-20.25.51:957][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.14-20.25.51:957][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.14-20.25.52:071][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.14-20.25.52:071][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.14-20.25.52:071][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.14-20.25.52:071][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.14-20.25.52:155][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2021.12.14-20.25.52:155][  0]LogD3D11RHI:       6023/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.14-20.25.52:176][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2021.12.14-20.25.52:176][  0]LogD3D11RHI:       496/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.12.14-20.25.52:178][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.14-20.25.52:178][  0]LogD3D11RHI:       0/0/7887 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.14-20.25.52:178][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.14-20.25.52:187][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.14-20.25.52:187][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.14-20.25.52:187][  0]LogWindows: EnumDisplayDevices:
+[2021.12.14-20.25.52:187][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:0 D:1)
+[2021.12.14-20.25.52:187][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.12.14-20.25.52:188][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2021.12.14-20.25.52:188][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:1 D:1)
+[2021.12.14-20.25.52:188][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.12.14-20.25.52:188][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.12.14-20.25.52:188][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2021.12.14-20.25.52:188][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.12.14-20.25.52:189][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2021.12.14-20.25.52:189][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2021.12.14-20.25.52:189][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2021.12.14-20.25.52:189][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2021.12.14-20.25.52:242][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.14-20.25.52:242][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.14-20.25.52:242][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.14-20.25.52:268][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.12.14-20.25.52:269][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.14-20.25.52:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.14-20.25.52:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.14-20.25.52:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.14-20.25.52:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.14-20.25.52:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.14-20.25.52:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.14-20.25.52:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.14-20.25.52:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.14-20.25.52:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.14-20.25.52:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.14-20.25.52:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.14-20.25.52:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.14-20.25.52:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.14-20.25.52:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.14-20.25.52:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.14-20.25.52:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.14-20.25.52:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.14-20.25.52:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.14-20.25.52:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.14-20.25.52:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.14-20.25.52:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.14-20.25.52:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.14-20.25.52:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.14-20.25.52:696][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.14-20.25.52:701][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.14-20.25.52:746][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.14-20.25.52:746][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Intermediate/Shaders/WorkingDirectory/9672/).
+[2021.12.14-20.25.52:747][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sketc/AppData/Local/Temp/UnrealShaderWorkingDir/A9A67A5F4278A3F15EE63E92F806E6BD/'.
+[2021.12.14-20.25.52:747][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.14-20.25.52:747][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.14-20.25.53:318][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.14-20.25.53:360][  0]LogDerivedDataCache: Loaded boot cache 0.04s 81MB C:/Users/sketc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.14-20.25.53:361][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sketc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.12.14-20.25.53:361][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/sketc/Documents/School/IGME 760/Survival/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.14-20.25.53:361][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.14-20.25.53:361][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/sketc/Documents/School/IGME 760/Survival/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.14-20.25.53:361][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.14-20.25.53:371][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.14-20.25.53:371][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.14-20.25.53:371][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.14-20.25.53:379][  0]LogDerivedDataCache: Speed tests for C:/Users/sketc/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.14-20.25.53:379][  0]LogDerivedDataCache: Display: Performance to C:/Users/sketc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=405.59MBs, RandomWriteSpeed=171.19MBs. Assigned SpeedClass 'Local'
+[2021.12.14-20.25.53:380][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sketc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.14-20.25.53:380][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.14-20.25.53:380][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.14-20.25.53:415][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.14-20.25.53:415][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.14-20.25.53:435][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.12.14-20.25.53:626][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.14-20.25.53:626][  0]LogInit: Active device profile: [0000020E54E27400][0000020E547AB8C0 49] Windows
+[2021.12.14-20.25.53:626][  0]LogInit: Profiles: [0000020E54E27400][0000020E547AB8C0 49] Windows, [0000020E54DFCE00][0000020E547B3A40 49] WindowsNoEditor, [0000020E54E24E00][0000020E547B7BC0 49] WindowsServer, [0000020E54DFEC00][0000020E547BBD40 49] WindowsClient, [0000020E54E26B00][0000020E557D0200 49] IOS, [0000020E54DFD700][0000020E557D4380 49] iPadAir, [0000020E54E25600][0000020E557D8500 49] iPadAir2, [0000020E54DC4600][0000020E557E07C0 49] IPadPro, [0000020E54DC4700][0000020E557DC800 49] iPadAir3, [0000020E54E26500][0000020E557E4980 49] iPadAir4, [0000020E54DC7200][0000020E557E8B00 49] iPadMini2, [0000020E54E25B00][0000020E557ECC80 49] iPadMini3, [0000020E54DC5F00][0000020E557F0E00 49] iPadMini4, [0000020E54E27C00][0000020E557F4F80 49] iPadMini5, [0000020E54DB7E00][0000020E557FD240 49] iPhone6, [0000020E54DB7F00][0000020E557F9280 49] iPodTouch6, [0000020E54DFC600][0000020E55805540 49] iPhone7, [0000020E54DFE400][0000020E55801580 49] iPodTouch7, [0000020E54DB5200][0000020E547AF6C0 49] iPhone5S, [0000020E54DFD600][0000020E55809800 49] iPhone6Plus, [0000020E54DB6700][0000020E5580D940 49] iPhone6S, [0000020E54DFC300][0000020E55815AC0 49] iPhone6SPlus, [0000020E54DB5A00][0000020E55819C40 49] iPhone7Plus, [0000020E54DFF200][0000020E5581C100 49] iPhoneSE, [0000020E54DB7A00][0000020E55820280 49] iPhone8, [0000020E54DFE600][0000020E55824400 49] iPhone8Plus, [0000020E54DB7200][0000020E55828580 49] iPhoneX, [0000020E54DFFF00][0000020E5582C700 49] iPhoneXS, [0000020E54DB5400][0000020E55830880 49] iPhoneXSMax, [0000020E54DFC500][0000020E55834A00 49] iPhoneXR, [0000020E54DB4F00][0000020E55838B80 49] iPhone11, [0000020E54DFF900][0000020E5583CD00 49] iPhone11Pro, [0000020E54DB5800][0000020E55840E80 49] iPhone11ProMax, [0000020E54DFF800][0000020E55845000 49] iPhoneSE2, [0000020E54DB5300][0000020E55849180 49] iPhone12Mini, [0000020E54DFCC00][0000020E5584D300 49] iPhone12, [0000020E54DB4D00][0000020E55851480 49] iPhone12Pro, [0000020E54DFCF00][0000020E55855600 49] iPhone12ProMax, [0000020E54DB6200][0000020E55811740 49] iPadPro105, [0000020E54DFD800][0000020E55859880 49] iPadPro129, [0000020E54DB6900][0000020E5585D9C0 49] iPadPro97, [0000020E54DFF700][0000020E55865B40 49] iPadPro2_129, [0000020E54DB5C00][0000020E55869CC0 49] iPad5, [0000020E54DFC800][0000020E5586C180 49] iPad6, [0000020E54DB6E00][0000020E55870300 49] iPad7, [0000020E54DFD200][0000020E55874480 49] iPad8, [0000020E54DB6000][0000020E55878600 49] iPadPro11, [0000020E54DFE800][0000020E5587C780 49] iPadPro2_11, [0000020E54DB4500][0000020E55880900 49] iPadPro3_129, [0000020E54DFF400][0000020E55884A80 49] iPadPro4_129, [0000020E54DB5700][0000020E55888C00 49] AppleTV, [0000020E54DFEB00][0000020E5588CD80 49] AppleTV4K, [0000020E54DB4800][0000020E55890F00 49] TVOS, [0000020E54DFDA00][0000020E55895080 49] Mac, [0000020E54DB7B00][0000020E55899200 49] MacClient, [0000020E54DFC400][0000020E5589D380 49] MacNoEditor, [0000020E54DB4A00][0000020E558A1500 49] MacServer, [0000020E54DFED00][0000020E558A5680 49] Linux, [0000020E54DB6B00][0000020E558617C0 49] LinuxAArch64, [0000020E54DFDE00][0000020E558A9900 49] LinuxNoEditor, [0000020E54DB4C00][0000020E558ADA40 49] LinuxAArch64NoEditor, [0000020E54E24C00][0000020E558B1B80 49] LinuxClient, [0000020E54E91600][0000020E558B9D00 49] LinuxAArch64Client, [0000020E54E25A00][0000020E558BC1C0 49] LinuxServer, [0000020E54E90300][0000020E558C0340 49] LinuxAArch64Server, [0000020E54E26100][0000020E558C44C0 49] Android, [0000020E54E91A00][0000020E558C8640 49] Android_Low, [0000020E54E27E00][0000020E558CC7C0 49] Android_Mid, [0000020E54E90600][0000020E558D0940 49] Android_High, [0000020E54E25700][0000020E558D4AC0 49] Android_Default, [0000020E54E91700][0000020E558D8C40 49] Android_Adreno4xx, [0000020E54E26800][0000020E558DCDC0 49] Android_Adreno5xx_Low, [0000020E54E90A00][0000020E558E0F40 49] Android_Adreno5xx, [0000020E54DB6800][0000020E558E50C0 49] Android_Adreno6xx, [0000020E54DFD500][0000020E558E9240 49] Android_Adreno6xx_Vulkan, [0000020E54DB4E00][0000020E558ED3C0 49] Android_Mali_T6xx, [0000020E54DFEA00][0000020E558F1540 49] Android_Mali_T7xx, [0000020E54DB6600][0000020E558F56C0 49] Android_Mali_T8xx, [0000020E54DFFB00][0000020E558B5800 49] Android_Mali_G71, [0000020E54DB6500][0000020E558F9940 49] Android_Mali_G72, [0000020E54DFDC00][0000020E558FDA80 49] Android_Mali_G72_Vulkan, [0000020E54DB5B00][0000020E55901BC0 49] Android_Mali_G76, [0000020E54DFD000][0000020E55909D40 49] Android_Mali_G76_Vulkan, [0000020E54DB4100][0000020E5590C200 49] Android_Mali_G77, [0000020E54DFD900][0000020E55910380 49] Android_Mali_G77_Vulkan, [0000020E54DB7100][0000020E55914500 49] Android_Vulkan_SM5, [0000020E54DFEF00][0000020E55918680 49] Android_PowerVR_G6xxx, [0000020E54DB7300][0000020E5591C800 49] Android_PowerVR_GT7xxx, [0000020E54DFE300][0000020E55920980 49] Android_PowerVR_GE8xxx, [0000020E54DB5600][0000020E55924B00 49] Android_PowerVR_GM9xxx, [0000020E54E91D00][0000020E55928C80 49] Android_PowerVR_GM9xxx_Vulkan, [0000020E54DB7000][0000020E5592CE00 49] Android_TegraK1, [0000020E54E90700][0000020E55930F80 49] Android_Unknown_Vulkan, [0000020E54DB7900][0000020E55935100 49] Lumin, [0000020E54E90900][0000020E55939280 49] Lumin_Desktop, [0000020E54DB5100][0000020E5593D400 49] HoloLens, 
+[2021.12.14-20.25.53:706][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.14-20.25.53:706][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.14-20.25.53:706][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.14-20.25.53:706][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.14-20.25.53:706][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.14-20.25.53:719][  0]LogNetVersion: Survival 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2558592047)
+[2021.12.14-20.25.54:109][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.14-20.25.54:157][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.047141 seconds
+[2021.12.14-20.25.54:162][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.12.14-20.25.54:162][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.12.14-20.25.54:162][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.14-20.25.54:444][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.14-20.25.54:450][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.14-20.25.54:513][  0]SourceControl: Source control is disabled
+[2021.12.14-20.25.54:513][  0]SourceControl: Source control is disabled
+[2021.12.14-20.25.54:515][  0]SourceControl: Source control is disabled
+[2021.12.14-20.25.54:519][  0]SourceControl: Source control is disabled
+[2021.12.14-20.25.54:521][  0]SourceControl: Source control is disabled
+[2021.12.14-20.25.54:567][  0]LogUProjectInfo: Found projects:
+[2021.12.14-20.25.54:707][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.14-20.25.54:722][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.14-20.25.54:722][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.14-20.25.54:760][  0]LogCollectionManager: Loaded 0 collections in 0.001283 seconds
+[2021.12.14-20.25.54:779][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sketc/Documents/School/IGME 760/Survival/Saved/Collections/' took 0.00s
+[2021.12.14-20.25.54:779][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sketc/Documents/School/IGME 760/Survival/Content/Developers/sketc/Collections/' took 0.00s
+[2021.12.14-20.25.54:779][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sketc/Documents/School/IGME 760/Survival/Content/Collections/' took 0.00s
+[2021.12.14-20.25.54:779][  0]LogOcInput: OculusInput pre-init called
+[2021.12.14-20.25.55:099][  0]LogEngine: Initializing Engine...
+[2021.12.14-20.25.55:100][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.14-20.25.55:100][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.14-20.25.55:101][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.14-20.25.55:192][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.14-20.25.55:198][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.14-20.25.55:209][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.14-20.25.55:211][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.14-20.25.55:211][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.14-20.25.55:211][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-20.25.55:211][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-20.25.55:211][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-20.25.55:211][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-20.25.55:211][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-20.25.55:211][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-20.25.55:211][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-20.25.55:211][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-20.25.55:211][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-20.25.55:211][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-20.25.55:223][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-20.25.55:223][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-20.25.55:247][  0]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.14-20.25.55:250][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-20.25.55:251][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-20.25.55:251][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-20.25.55:252][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.14-20.25.55:252][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-20.25.55:252][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-20.25.55:253][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-20.25.55:253][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-20.25.55:253][  0]LogInit: FAudioDevice initialized.
+[2021.12.14-20.25.55:253][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.14-20.25.55:253][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.14-20.25.55:298][  0]LogDerivedDataCache: Saved boot cache 0.04s 81MB C:/Users/sketc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.14-20.25.55:301][  0]LogInit: Texture streaming: Enabled
+[2021.12.14-20.25.55:311][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.12.14-20.25.55:315][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.14-20.25.55:315][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={95AED33D-41AB-914C-098D-FA8FB3F206D5}
+[2021.12.14-20.25.55:315][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.14-20.25.55:319][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.14-20.25.55:339][  0]LogInit: Transaction tracking system initialized
+[2021.12.14-20.25.55:356][  0]BlueprintLog: New page: Editor Load
+[2021.12.14-20.25.55:411][  0]LocalizationService: Localization service is disabled
+[2021.12.14-20.25.55:430][  0]TimingProfiler: Initialize
+[2021.12.14-20.25.55:431][  0]TimingProfiler: OnSessionChanged
+[2021.12.14-20.25.55:431][  0]LoadingProfiler: Initialize
+[2021.12.14-20.25.55:431][  0]LoadingProfiler: OnSessionChanged
+[2021.12.14-20.25.55:431][  0]NetworkingProfiler: Initialize
+[2021.12.14-20.25.55:431][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.14-20.25.55:431][  0]MemoryProfiler: Initialize
+[2021.12.14-20.25.55:431][  0]MemoryProfiler: OnSessionChanged
+[2021.12.14-20.25.55:535][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.14-20.25.55:536][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.14-20.25.55:661][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sketc/Documents/School/IGME 760/Survival/Content/' took 0.00s
+[2021.12.14-20.25.55:781][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.14-20.25.55:784][  0]SourceControl: Source control is disabled
+[2021.12.14-20.25.55:784][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.389
+[2021.12.14-20.25.55:784][  0]Cmd: MAP LOAD FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.14-20.25.55:784][  0]LightingResults: New page: Lighting Build
+[2021.12.14-20.25.55:785][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-20.25.55:785][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-20.25.55:785][  0]MapCheck: New page: Map Check
+[2021.12.14-20.25.55:785][  0]LightingResults: New page: Lighting Build
+[2021.12.14-20.25.55:790][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.12.14-20.25.55:859][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Arena'.
+[2021.12.14-20.25.55:860][  0]LogAIModule: Creating AISystem for world Arena
+[2021.12.14-20.25.55:863][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.14-20.25.55:869][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.12.14-20.25.55:870][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.14-20.25.55:870][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2021.12.14-20.25.55:870][  0]LogFileHelpers: Loading map 'Arena' took 0.086
+[2021.12.14-20.25.55:873][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.478
+[2021.12.14-20.25.56:224][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.12.14-20.25.56:278][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.14-20.25.56:720][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.25.56:724][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.14-20.25.56:725][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.14-20.25.56:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.14-20.25.56:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.12.14-20.25.56:726][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.14-20.25.56:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.14-20.25.56:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.12.14-20.25.56:726][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.14-20.25.56:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.14-20.25.56:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.12.14-20.25.56:727][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.14-20.25.56:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.14-20.25.56:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.12.14-20.25.56:727][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.14-20.25.56:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.14-20.25.56:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.12.14-20.25.56:727][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.14-20.25.56:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.14-20.25.56:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.12.14-20.25.56:728][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.14-20.25.56:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.14-20.25.56:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.12.14-20.25.56:728][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.14-20.25.56:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.14-20.25.56:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.12.14-20.25.56:729][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.14-20.25.56:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.14-20.25.56:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.12.14-20.25.56:729][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.14-20.25.56:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.14-20.25.56:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.12.14-20.25.56:729][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.14-20.25.56:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.14-20.25.56:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.12.14-20.25.56:730][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.14-20.25.56:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.14-20.25.56:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.12.14-20.25.56:730][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.14-20.25.56:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.14-20.25.56:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.12.14-20.25.56:731][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.14-20.25.56:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.14-20.25.56:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.12.14-20.25.56:731][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.14-20.25.56:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.14-20.25.56:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.12.14-20.25.56:732][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.14-20.25.56:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.14-20.25.56:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.12.14-20.25.56:732][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.14-20.25.56:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.14-20.25.56:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.12.14-20.25.56:733][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.14-20.25.56:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.14-20.25.56:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.12.14-20.25.56:733][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.14-20.25.56:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.14-20.25.56:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.12.14-20.25.56:734][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.14-20.25.56:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.14-20.25.56:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.12.14-20.25.56:734][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.14-20.25.56:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.14-20.25.56:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.12.14-20.25.56:735][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.14-20.25.56:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.14-20.25.56:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.12.14-20.25.56:735][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.14-20.25.56:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.14-20.25.56:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.12.14-20.25.56:736][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.14-20.25.56:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.14-20.25.56:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.12.14-20.25.56:736][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.14-20.25.56:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.14-20.25.56:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.12.14-20.25.56:737][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.14-20.25.56:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.14-20.25.56:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.14-20.25.56:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.12.14-20.25.56:768][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.14-20.25.56:770][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.12.14-20.25.56:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-20.25.56:808][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-20.25.56:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-20.25.56:825][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-20.25.56:847][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.14-20.25.56:847][  0]LogLoad: (Engine Initialization) Total time: 6.45 seconds
+[2021.12.14-20.25.56:847][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.14-20.25.56:847][  0]LogInit: First time updating LLM stats...
+[2021.12.14-20.25.57:373][  0]LogAssetRegistry: Asset discovery search completed in 3.9385 seconds
+[2021.12.14-20.25.57:374][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.12.14-20.25.57:409][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
+[2021.12.14-20.25.57:409][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.14-20.25.57:416][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.14-20.25.57:417][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.14-20.25.57:539][  1]LogRenderer: Reallocating scene render targets to support 976x408 Format 10 NumSamples 1 (Frame:1).
+[2021.12.14-20.26.04:597][ 22]LogHotReload: New module detected: UE4Editor-Survival-0160.dll
+[2021.12.14-20.26.05:292][ 25]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.26.05:295][ 25]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.14-20.26.05:343][ 25]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.26.05:345][ 25]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.26.05:382][ 25]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.26.05:385][ 25]Display: HotReload took  0.1s.
+[2021.12.14-20.26.40:911][130]LogHotReload: New module detected: UE4Editor-Survival-0161.dll
+[2021.12.14-20.26.41:596][133]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.26.41:642][133]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.26.41:644][133]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.26.41:676][133]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.26.41:679][133]Display: HotReload took  0.1s.
+[2021.12.14-20.26.47:634][150]LogHotReload: New module detected: UE4Editor-Survival-0162.dll
+[2021.12.14-20.26.48:314][153]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.26.48:355][153]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.26.48:357][153]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.26.48:387][153]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.26.48:390][153]Display: HotReload took  0.1s.
+[2021.12.14-20.27.10:488][218]LogHotReload: New module detected: UE4Editor-Survival-0164.dll
+[2021.12.14-20.27.48:065][330]LogHotReload: New module detected: UE4Editor-Survival-0165.dll
+[2021.12.14-20.27.48:749][333]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.27.48:792][333]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.27.48:792][333]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.27.48:822][333]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0113 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.27.48:825][333]Display: HotReload took  0.1s.
+[2021.12.14-20.27.54:443][349]LogHotReload: New module detected: UE4Editor-Survival-0166.dll
+[2021.12.14-20.27.55:125][352]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.27.55:168][352]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.27.55:170][352]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.27.55:196][352]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.27.55:199][352]Display: HotReload took  0.1s.
+[2021.12.14-20.28.02:840][374]LogHotReload: New module detected: UE4Editor-Survival-0167.dll
+[2021.12.14-20.28.03:521][377]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.28.03:564][377]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.28.03:566][377]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.28.03:593][377]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.28.03:595][377]Display: HotReload took  0.1s.
+[2021.12.14-20.29.53:655][785]Candidate modules for hot reload:
+[2021.12.14-20.29.53:655][785]  Survival
+[2021.12.14-20.29.53:655][785]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Survival,7697 SurvivalEditor Win64 Development -Project="C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject" "C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject"  -IgnoreJunk]
+[2021.12.14-20.29.53:657][785]Warning: Starting HotReload took  0.0s.
+[2021.12.14-20.29.55:578][879]LogRenderer: Reallocating scene render targets to support 1468x680 Format 10 NumSamples 1 (Frame:177).
+[2021.12.14-20.29.56:188][916]CompilerResultsLog: New page: Compilation - Dec 14, 2021, 10:29:56 AM
+[2021.12.14-20.29.56:188][916]CompilerResultsLog: Building SurvivalEditor...
+[2021.12.14-20.29.56:188][916]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.14-20.29.56:188][916]CompilerResultsLog: Building 4 actions with 16 processes...
+[2021.12.14-20.29.56:188][916]CompilerResultsLog:   [1/4] TankAI.cpp
+[2021.12.14-20.29.56:188][916]CompilerResultsLog:   [2/4] UE4Editor-Survival-7697.lib
+[2021.12.14-20.29.56:188][916]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7697.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7697.exp
+[2021.12.14-20.29.56:188][916]CompilerResultsLog:   [3/4] UE4Editor-Survival-7697.dll
+[2021.12.14-20.29.56:188][916]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7697.suppressed.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-7697.suppressed.exp
+[2021.12.14-20.29.56:188][916]CompilerResultsLog:   [4/4] SurvivalEditor.target
+[2021.12.14-20.29.56:188][916]CompilerResultsLog: Total time in Parallel executor: 1.97 seconds
+[2021.12.14-20.29.56:188][916]CompilerResultsLog: Total execution time: 2.45 seconds
+[2021.12.14-20.29.56:188][916]LogMainFrame: MainFrame: Module compiling took 2.536 seconds
+[2021.12.14-20.29.56:215][916]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.29.56:217][916]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.29.56:241][916]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.29.56:241][916]Display: HotReload took  2.6s.
+[2021.12.14-20.30.01:836][251]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.14-20.30.23:790][564]LogSlate: Took 0.000623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.14-20.30.36:295][309]Candidate modules for hot reload:
+[2021.12.14-20.30.36:295][309]  Survival
+[2021.12.14-20.30.36:295][309]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Survival,3001 SurvivalEditor Win64 Development -Project="C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject" "C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject"  -IgnoreJunk]
+[2021.12.14-20.30.38:165][309]CompilerResultsLog: New page: Compilation - Dec 14, 2021, 10:30:38 AM
+[2021.12.14-20.30.38:165][309]CompilerResultsLog: Invalidating makefile for SurvivalEditor (source file added)
+[2021.12.14-20.30.38:165][309]CompilerResultsLog: Building SurvivalEditor...
+[2021.12.14-20.30.38:165][309]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.14-20.30.38:165][309]CompilerResultsLog: Building 4 actions with 16 processes...
+[2021.12.14-20.30.38:165][309]CompilerResultsLog:   [1/4] RetreatTask.cpp
+[2021.12.14-20.30.38:165][309]CompilerResultsLog:   C:\Users\sketc\Documents\School\IGME 760\Survival\Source\Survival\AI\RetreatTask.cpp(4): fatal error C1083: Cannot open include file: 'AI/RetreatTask.h': No such file or directory
+[2021.12.14-20.30.38:165][309]LogMainFrame: MainFrame: Module compiling took 1.873 seconds
+[2021.12.14-20.30.38:169][309]Warning: HotReload failed, recompile failed
+[2021.12.14-20.30.38:169][309]Warning: RebindPackages failed because compilation failed.
+[2021.12.14-20.30.39:389][309]LogSlate: Window 'Message' being destroyed
+[2021.12.14-20.30.39:392][309]Message dialog closed, result: No, title: Message, text: Successfully added class 'RetreatTask', however you must recompile the 'Survival' module before it will appear in the Content Browser. Failed to automatically hot reload the 'Survival' module.
+
+Would you like to open the Output Log to see more details?
+[2021.12.14-20.30.39:392][309]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.12.14-20.35.21:592][220]LogHotReload: New module detected: UE4Editor-Survival-0174.dll
+[2021.12.14-20.35.22:275][223]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.35.22:329][223]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.35.22:331][223]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.35.22:359][223]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.35.22:361][223]Display: HotReload took  0.1s.
+[2021.12.14-20.36.29:486][423]LogHotReload: New module detected: UE4Editor-Survival-0175.dll
+[2021.12.14-20.36.30:174][426]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.36.30:215][426]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.36.30:216][426]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.36.30:241][426]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0084 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.36.30:244][426]Display: HotReload took  0.1s.
+[2021.12.14-20.37.00:240][515]LogHotReload: New module detected: UE4Editor-Survival-0176.dll
+[2021.12.14-20.37.00:921][518]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.37.00:963][518]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.37.00:965][518]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.37.00:992][518]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.37.00:995][518]Display: HotReload took  0.1s.
+[2021.12.14-20.37.56:804][684]LogHotReload: New module detected: UE4Editor-Survival-0177.dll
+[2021.12.14-20.37.57:496][687]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.37.57:540][687]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.37.57:542][687]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.37.57:568][687]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.37.57:570][687]Display: HotReload took  0.1s.
+[2021.12.14-20.59.57:264][713]LogHotReload: New module detected: UE4Editor-Survival-0184.dll
+[2021.12.14-20.59.57:949][716]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-20.59.58:013][716]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-20.59.58:015][716]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-20.59.58:044][716]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-20.59.58:046][716]Display: HotReload took  0.1s.
+[2021.12.14-21.10.26:371][593]LogHotReload: New module detected: UE4Editor-Survival-0185.dll
+[2021.12.14-21.10.27:390][597]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-21.10.27:439][597]LogClass: Could not find existing type TaskType for HotReload. Assuming new
+[2021.12.14-21.10.27:447][597]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-21.10.27:449][597]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-21.10.27:479][597]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-21.10.27:481][597]Display: HotReload took  0.1s.
+[2021.12.14-21.12.34:295][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.14-21.12.35:450][684]LogSlate: Took 0.005368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.14-21.12.46:738][358]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.12.14-21.12.58:758][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.12.58:768][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.12.14-21.12.58:826][ 74]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/ArenaA0E89E5442D74650ACD105994D76D9B3.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.12.58:847][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.12.58:863][ 74]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltDataC8737FB44621B197C1915BA636050303.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.12.58:887][ 74]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.12.58:887][ 74]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.12.58:888][ 74]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.13.01:329][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.14-21.13.21:475][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.14-21.13.26:246][700]LogActorFactory: Actor Factory created Cube
+[2021.12.14-21.13.27:504][774]LogActorFactory: Actor Factory created Cube
+[2021.12.14-21.14.30:673][553]Cmd: TRANSACTION UNDO
+[2021.12.14-21.14.30:673][553]LogEditorTransaction: Undo Move Actors
+[2021.12.14-21.14.37:027][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.14.37:030][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.12.14-21.14.37:039][928]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/ArenaA453D2704DD7AF618B6C3DBA06615C22.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.14.37:045][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.14.37:055][928]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltData5515A520466F46623AA3F1A4F38FCD40.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.14.37:067][928]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.14.37:067][928]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.14.37:067][928]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.14.43:671][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.14-21.14.44:558][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.14-21.14.47:409][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.14-21.14.48:893][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.12.14-21.14.54:096][938]LogEditorViewport: Clicking Background
+[2021.12.14-21.14.54:895][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.14-21.15.16:134][246]LogEditorViewport: Clicking Background
+[2021.12.14-21.15.16:717][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.15.16:720][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.12.14-21.15.16:729][280]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena252AB1184A5BB30390F9B18DFD5FE61D.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.15.16:745][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.15.16:755][280]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltDataAA39633843F1C58484FFA5AF49207C81.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.15.16:761][280]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.15.16:761][280]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.15.16:761][280]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.15.21:001][535]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.14-21.15.21:009][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-21.15.21:010][535]PIE: New page: PIE session: Arena (Dec 14, 2021, 11:15:21 AM)
+[2021.12.14-21.15.21:017][535]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.14-21.15.21:018][535]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.14-21.15.21:019][535]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2021.12.14-21.15.21:025][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006054s)
+[2021.12.14-21.15.21:027][535]LogAIModule: Creating AISystem for world Arena
+[2021.12.14-21.15.21:027][535]LogPlayLevel: PIE: World Init took: (0.001797s)
+[2021.12.14-21.15.21:028][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.008654s)
+[2021.12.14-21.15.21:031][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.14-21.15.21:033][535]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.14-21.15.21:033][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-21.15.21:033][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-21.15.21:033][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-21.15.21:033][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-21.15.21:033][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-21.15.21:033][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-21.15.21:033][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-21.15.21:033][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-21.15.21:033][535]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-21.15.21:033][535]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-21.15.21:037][535]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-21.15.21:037][535]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-21.15.21:045][535]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.14-21.15.21:045][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-21.15.21:045][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-21.15.21:045][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-21.15.21:046][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.14-21.15.21:046][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-21.15.21:046][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-21.15.21:060][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-21.15.21:060][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-21.15.21:061][535]LogInit: FAudioDevice initialized.
+[2021.12.14-21.15.21:061][535]LogAudio: Display: Audio Device (ID: 2) registered with world 'Arena'.
+[2021.12.14-21.15.21:094][535]LogLoad: Game class is 'BP_SurvivalGM_C'
+[2021.12.14-21.15.21:100][535]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2021.12.14-16.15.21
+[2021.12.14-21.15.21:109][535]LogWorld: Bringing up level for play took: 0.009802
+[2021.12.14-21.15.21:110][535]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.12.14-21.15.21:120][535]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.12.14-21.15.21:123][535]PIE: Server logged in
+[2021.12.14-21.15.21:125][535]PIE: Play in editor total start time 0.118 seconds.
+[2021.12.14-21.15.29:191][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.15.29:191][ 17]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arena
+[2021.12.14-21.15.29:191][ 17]LogWorld: UWorld::CleanupWorld for Arena, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-21.15.29:192][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.15.29:203][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-21.15.29:204][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.15.29:209][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-21.15.29:210][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.15.29:213][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.15.29:228][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.15.29:232][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.12.14-21.15.29:274][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.12.14-21.15.44:094][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.14-21.15.59:801][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2021.12.14-21.16.12:548][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.12.14-21.16.16:192][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.12.14-21.16.21:061][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.12.14-21.16.28:192][539]LogEditorViewport: Clicking Background
+[2021.12.14-21.16.29:775][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.12.14-21.16.31:785][752]LogEditorViewport: Clicking Background
+[2021.12.14-21.16.32:235][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.12.14-21.16.39:497][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.16.39:501][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.12.14-21.16.39:510][209]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena7D6F72C14315E91F0F4597B3E1329B59.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.16.39:515][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.16.39:525][209]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltDataC2B9215646188BA5D07B6E963FC88075.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.16.39:538][209]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.16.39:538][209]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.16.39:538][209]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.16.41:962][355]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.12.14-21.16.49:874][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.16.49:877][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.12.14-21.16.49:886][828]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena44C70DE1427A1235A71E8C907D383B57.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.16.49:891][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.16.49:901][828]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltDataE0B6C69540A6CB0E7973FFB289E28BC8.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.16.49:915][828]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.16.49:915][828]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.16.49:915][828]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.16.53:088][ 19]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.14-21.16.58:945][369]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.14-21.16.58:949][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-21.16.58:949][369]PIE: New page: PIE session: Arena (Dec 14, 2021, 11:16:58 AM)
+[2021.12.14-21.16.58:978][369]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2021.12.14-21.16.58:981][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003077s)
+[2021.12.14-21.16.58:982][369]LogAIModule: Creating AISystem for world Arena
+[2021.12.14-21.16.58:990][369]LogPlayLevel: PIE: World Init took: (0.009135s)
+[2021.12.14-21.16.58:990][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.012477s)
+[2021.12.14-21.16.58:994][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.12.14-21.16.58:996][369]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.14-21.16.58:996][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-21.16.58:996][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-21.16.58:996][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-21.16.58:996][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-21.16.58:996][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-21.16.58:996][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-21.16.58:996][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-21.16.58:996][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-21.16.58:996][369]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-21.16.58:996][369]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-21.16.59:000][369]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-21.16.59:000][369]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-21.16.59:006][369]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.14-21.16.59:006][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-21.16.59:007][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-21.16.59:007][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-21.16.59:008][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.14-21.16.59:008][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-21.16.59:008][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-21.16.59:020][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-21.16.59:020][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-21.16.59:020][369]LogInit: FAudioDevice initialized.
+[2021.12.14-21.16.59:020][369]LogAudio: Display: Audio Device (ID: 3) registered with world 'Arena'.
+[2021.12.14-21.16.59:031][369]LogLoad: Game class is 'BP_SurvivalGM_C'
+[2021.12.14-21.16.59:032][369]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2021.12.14-16.16.59
+[2021.12.14-21.16.59:032][369]LogWorld: Bringing up level for play took: 0.000784
+[2021.12.14-21.16.59:032][369]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.12.14-21.16.59:034][369]PIE: Server logged in
+[2021.12.14-21.16.59:036][369]PIE: Play in editor total start time 0.087 seconds.
+[2021.12.14-21.17.11:230][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.17.11:230][ 98]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arena
+[2021.12.14-21.17.11:230][ 98]LogWorld: UWorld::CleanupWorld for Arena, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-21.17.11:230][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.17.11:241][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-21.17.11:248][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.17.11:250][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-21.17.11:250][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.17.11:251][ 98]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.17.11:265][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.17.11:267][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.12.14-21.17.11:294][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.12.14-21.17.48:117][306]LogStaticMesh: Building static mesh SuperGrid_Arch1...
+[2021.12.14-21.17.48:142][306]LogStaticMesh: Built static mesh [0.02s] /Game/SuperGrid/StarterPack/Models/Meshes/SuperGrid_Arch1.SuperGrid_Arch1
+[2021.12.14-21.17.48:185][307]LogActorFactory: Actor Factory created SuperGrid_Arch1
+[2021.12.14-21.17.49:205][368]LogActorFactory: Actor Factory created SuperGrid_Arch1
+[2021.12.14-21.19.20:051][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.14-21.19.29:589][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Arch2)
+[2021.12.14-21.20.08:087][652]LogEditorViewport: Clicking Background
+[2021.12.14-21.20.08:651][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.20.08:655][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.12.14-21.20.08:666][685]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena38233D434DB24EE208806D90C9FAAF09.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.20.08:671][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.20.08:681][685]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltData5DF0C28D44DAEE2AC7D494BA36D46234.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.20.08:692][685]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.20.08:693][685]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.20.08:693][685]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.20.19:536][336]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.12.14-21.20.29:020][904]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.14-21.20.31:824][ 72]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.14-21.20.35:025][264]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.14-21.20.35:029][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-21.20.35:029][264]PIE: New page: PIE session: Arena (Dec 14, 2021, 11:20:35 AM)
+[2021.12.14-21.20.35:029][264]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2021.12.14-21.20.35:031][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002803s)
+[2021.12.14-21.20.35:032][264]LogAIModule: Creating AISystem for world Arena
+[2021.12.14-21.20.35:033][264]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2021.12.14-21.20.35:033][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.003906s)
+[2021.12.14-21.20.35:036][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.12.14-21.20.35:037][264]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.14-21.20.35:037][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-21.20.35:037][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-21.20.35:037][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-21.20.35:037][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-21.20.35:037][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-21.20.35:037][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-21.20.35:037][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-21.20.35:037][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-21.20.35:038][264]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-21.20.35:038][264]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-21.20.35:040][264]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-21.20.35:040][264]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-21.20.35:048][264]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.14-21.20.35:048][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-21.20.35:048][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-21.20.35:048][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-21.20.35:049][264]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.14-21.20.35:049][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-21.20.35:049][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-21.20.35:061][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-21.20.35:061][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-21.20.35:061][264]LogInit: FAudioDevice initialized.
+[2021.12.14-21.20.35:061][264]LogAudio: Display: Audio Device (ID: 4) registered with world 'Arena'.
+[2021.12.14-21.20.35:071][264]LogLoad: Game class is 'BP_SurvivalGM_C'
+[2021.12.14-21.20.35:073][264]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2021.12.14-16.20.35
+[2021.12.14-21.20.35:073][264]LogWorld: Bringing up level for play took: 0.001098
+[2021.12.14-21.20.35:073][264]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.12.14-21.20.35:075][264]PIE: Server logged in
+[2021.12.14-21.20.35:075][264]PIE: Play in editor total start time 0.048 seconds.
+[2021.12.14-21.20.49:808][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.20.49:808][145]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arena
+[2021.12.14-21.20.49:808][145]LogWorld: UWorld::CleanupWorld for Arena, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-21.20.49:808][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.20.49:817][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-21.20.49:826][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.20.49:830][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-21.20.49:830][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.20.49:831][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.20.49:844][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.20.49:846][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.12.14-21.20.49:866][146]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.12.14-21.20.50:608][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.20.50:610][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.14-21.20.50:621][190]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena1BA092FB41122DF3E7735DB5C0BA2A44.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.20.50:626][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.20.50:635][190]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltData3A0658824081A0C4DDB5D9BF88F85B4F.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.20.50:646][190]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.20.50:646][190]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.20.50:646][190]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.20.56:340][531]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.12.14-21.20.57:294][585]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.14-21.23.45:401][669]LogStaticMesh: Building static mesh SuperGrid_Hexagon...
+[2021.12.14-21.23.45:419][669]LogStaticMesh: Built static mesh [0.02s] /Game/SuperGrid/StarterPack/Models/Meshes/SuperGrid_Hexagon.SuperGrid_Hexagon
+[2021.12.14-21.23.45:523][674]LogActorFactory: Actor Factory created SuperGrid_Hexagon
+[2021.12.14-21.23.47:066][766]LogActorFactory: Actor Factory created SuperGrid_Hexagon
+[2021.12.14-21.24.04:552][813]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.14-21.24.04:557][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-21.24.04:557][813]PIE: New page: PIE session: Arena (Dec 14, 2021, 11:24:04 AM)
+[2021.12.14-21.24.04:578][813]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2021.12.14-21.24.04:581][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003655s)
+[2021.12.14-21.24.04:582][813]LogAIModule: Creating AISystem for world Arena
+[2021.12.14-21.24.04:582][813]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2021.12.14-21.24.04:582][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.005107s)
+[2021.12.14-21.24.04:586][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.12.14-21.24.04:588][813]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.14-21.24.04:588][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-21.24.04:588][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-21.24.04:588][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-21.24.04:588][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-21.24.04:588][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-21.24.04:588][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-21.24.04:588][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-21.24.04:588][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-21.24.04:588][813]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-21.24.04:589][813]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-21.24.04:590][813]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-21.24.04:590][813]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-21.24.04:599][813]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.14-21.24.04:599][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-21.24.04:599][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-21.24.04:599][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-21.24.04:600][813]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.14-21.24.04:600][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-21.24.04:600][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-21.24.04:613][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-21.24.04:613][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-21.24.04:613][813]LogInit: FAudioDevice initialized.
+[2021.12.14-21.24.04:613][813]LogAudio: Display: Audio Device (ID: 5) registered with world 'Arena'.
+[2021.12.14-21.24.04:625][813]LogLoad: Game class is 'BP_SurvivalGM_C'
+[2021.12.14-21.24.04:626][813]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2021.12.14-16.24.04
+[2021.12.14-21.24.04:627][813]LogWorld: Bringing up level for play took: 0.001138
+[2021.12.14-21.24.04:627][813]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.12.14-21.24.04:629][813]PIE: Server logged in
+[2021.12.14-21.24.04:630][813]PIE: Play in editor total start time 0.074 seconds.
+[2021.12.14-21.24.14:088][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.24.14:088][378]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arena
+[2021.12.14-21.24.14:088][378]LogWorld: UWorld::CleanupWorld for Arena, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-21.24.14:088][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.24.14:098][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-21.24.14:115][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.24.14:118][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-21.24.14:118][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.24.14:119][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.24.14:132][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.24.14:134][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.12.14-21.24.14:164][379]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.12.14-21.24.36:496][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.14-21.24.38:058][803]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.14-21.24.40:509][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.24.40:513][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.12.14-21.24.40:524][948]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/ArenaA8553F954EF0E28E92D3029F552C4C84.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.24.40:528][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.24.40:539][948]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltData69CF9A7A479C7C8E0DBFE69DC50520BA.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.24.40:553][948]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.24.40:553][948]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.24.40:553][948]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.26.47:096][296]LogStaticMesh: Building static mesh SuperGrid_CylinderFull...
+[2021.12.14-21.26.47:115][296]LogStaticMesh: Built static mesh [0.02s] /Game/SuperGrid/StarterPack/Models/Meshes/SuperGrid_CylinderFull.SuperGrid_CylinderFull
+[2021.12.14-21.26.47:167][298]LogActorFactory: Actor Factory created SuperGrid_CylinderFull
+[2021.12.14-21.26.47:887][341]LogActorFactory: Actor Factory created SuperGrid_CylinderFull
+[2021.12.14-21.28.01:134][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull)
+[2021.12.14-21.28.06:056][  9]LogEditorViewport: Clicking Background
+[2021.12.14-21.28.09:691][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull)
+[2021.12.14-21.28.15:657][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.28.15:660][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.12.14-21.28.15:673][573]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena1E0C326E4B0D58936D8A08985309BBCE.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.28.15:679][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.28.15:688][573]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltData9EDD1A604596A32270F62DB7B14D0861.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.28.15:696][573]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.28.15:696][573]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.28.15:696][573]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.28.15:782][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.28.15:785][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.12.14-21.28.15:796][578]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena55F8AE9143DF8A4D94D849AC963D93FD.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.28.15:801][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.28.15:810][578]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltData3FF440454BC1874FB962C0B19AD3D869.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.28.15:817][578]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.28.15:818][578]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.28.15:818][578]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.28.17:375][672]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.14-21.28.17:379][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-21.28.17:379][672]PIE: New page: PIE session: Arena (Dec 14, 2021, 11:28:17 AM)
+[2021.12.14-21.28.17:379][672]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2021.12.14-21.28.17:381][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003046s)
+[2021.12.14-21.28.17:382][672]LogAIModule: Creating AISystem for world Arena
+[2021.12.14-21.28.17:382][672]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2021.12.14-21.28.17:382][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.004058s)
+[2021.12.14-21.28.17:386][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.12.14-21.28.17:387][672]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.12.14-21.28.17:387][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-21.28.17:387][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-21.28.17:387][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-21.28.17:387][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-21.28.17:387][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-21.28.17:387][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-21.28.17:387][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-21.28.17:387][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-21.28.17:387][672]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-21.28.17:387][672]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-21.28.17:390][672]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-21.28.17:390][672]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-21.28.17:399][672]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.14-21.28.17:399][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-21.28.17:399][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-21.28.17:399][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-21.28.17:400][672]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.14-21.28.17:400][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-21.28.17:400][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-21.28.17:414][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-21.28.17:414][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-21.28.17:414][672]LogInit: FAudioDevice initialized.
+[2021.12.14-21.28.17:414][672]LogAudio: Display: Audio Device (ID: 6) registered with world 'Arena'.
+[2021.12.14-21.28.17:424][672]LogLoad: Game class is 'BP_SurvivalGM_C'
+[2021.12.14-21.28.17:426][672]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2021.12.14-16.28.17
+[2021.12.14-21.28.17:426][672]LogWorld: Bringing up level for play took: 0.001237
+[2021.12.14-21.28.17:426][672]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.12.14-21.28.17:428][672]PIE: Server logged in
+[2021.12.14-21.28.17:429][672]PIE: Play in editor total start time 0.051 seconds.
+[2021.12.14-21.28.37:078][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.28.37:078][849]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arena
+[2021.12.14-21.28.37:078][849]LogWorld: UWorld::CleanupWorld for Arena, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-21.28.37:079][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.28.37:088][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-21.28.37:099][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.28.37:102][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.28.37:103][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.28.37:104][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.28.37:118][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.14-21.28.37:147][850]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.12.14-21.28.52:079][744]LogStaticMesh: Building static mesh SuperGrid_BoxHighRes...
+[2021.12.14-21.28.52:093][744]LogStaticMesh: Built static mesh [0.02s] /Game/SuperGrid/StarterPack/Models/Meshes/SuperGrid_BoxHighRes.SuperGrid_BoxHighRes
+[2021.12.14-21.28.52:393][761]LogActorFactory: Actor Factory created SuperGrid_BoxHighRes
+[2021.12.14-21.28.53:147][806]LogActorFactory: Actor Factory created SuperGrid_BoxHighRes
+[2021.12.14-21.30.46:382][575]LogEditorViewport: Clicking Background
+[2021.12.14-21.30.47:332][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes2)
+[2021.12.14-21.31.19:159][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes2)
+[2021.12.14-21.31.25:247][888]Cmd: TRANSACTION UNDO
+[2021.12.14-21.31.25:247][888]LogEditorTransaction: Undo Rotate Actors
+[2021.12.14-21.31.59:966][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.31.59:969][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.12.14-21.31.59:983][948]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena758AF2A24F35C417AA90F79BC60DF663.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.31.59:989][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.31.59:998][948]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltData7D40F3C74F3886340B751F8C8C300FDB.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.32.00:017][948]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.32.00:017][948]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.32.00:017][948]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.32.05:619][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.14-21.32.06:466][333]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.14-21.32.06:470][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.14-21.32.06:470][333]PIE: New page: PIE session: Arena (Dec 14, 2021, 11:32:06 AM)
+[2021.12.14-21.32.06:497][333]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arena
+[2021.12.14-21.32.06:501][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003469s)
+[2021.12.14-21.32.06:501][333]LogAIModule: Creating AISystem for world Arena
+[2021.12.14-21.32.06:502][333]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2021.12.14-21.32.06:502][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arena.Arena to /Game/UEDPIE_0_Arena.Arena (0.004487s)
+[2021.12.14-21.32.06:505][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.12.14-21.32.06:505][333]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.12.14-21.32.06:505][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.14-21.32.06:505][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.14-21.32.06:505][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.14-21.32.06:505][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.14-21.32.06:505][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.14-21.32.06:505][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.14-21.32.06:505][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.14-21.32.06:505][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.14-21.32.06:506][333]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.14-21.32.06:506][333]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.14-21.32.06:508][333]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.14-21.32.06:508][333]LogAudioMixer: Display: 1: FrontRight
+[2021.12.14-21.32.06:516][333]LogAudioMixer: Display: Using Audio Device Speakers (JBL Flip 4 Stereo)
+[2021.12.14-21.32.06:516][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.14-21.32.06:516][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.14-21.32.06:516][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.14-21.32.06:516][333]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.14-21.32.06:516][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.14-21.32.06:516][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.14-21.32.06:530][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.14-21.32.06:530][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.14-21.32.06:530][333]LogInit: FAudioDevice initialized.
+[2021.12.14-21.32.06:530][333]LogAudio: Display: Audio Device (ID: 7) registered with world 'Arena'.
+[2021.12.14-21.32.06:541][333]LogLoad: Game class is 'BP_SurvivalGM_C'
+[2021.12.14-21.32.06:543][333]LogWorld: Bringing World /Game/UEDPIE_0_Arena.Arena up for play (max tick rate 60) at 2021.12.14-16.32.06
+[2021.12.14-21.32.06:544][333]LogWorld: Bringing up level for play took: 0.002176
+[2021.12.14-21.32.06:544][333]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.12.14-21.32.06:547][333]PIE: Server logged in
+[2021.12.14-21.32.06:548][333]PIE: Play in editor total start time 0.078 seconds.
+[2021.12.14-21.32.19:058][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.32.19:058][ 81]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arena
+[2021.12.14-21.32.19:058][ 81]LogWorld: UWorld::CleanupWorld for Arena, bSessionEnded=true, bCleanupResources=true
+[2021.12.14-21.32.19:059][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.32.19:065][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.14-21.32.19:078][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.14-21.32.19:081][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.14-21.32.19:081][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.32.19:083][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.14-21.32.19:097][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.14-21.32.19:098][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.12.14-21.32.19:128][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.12.14-21.32.29:345][607]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.14-21.32.29:356][607]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.14-21.32.29:365][607]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.14-21.32.33:718][869]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CoverPoint
+[2021.12.14-21.32.33:724][869]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.14-21.33.11:120][112]LogEditorViewport: Clicking on Actor (LMB): BP_CoverPoint_C (BP_CoverPoint2)
+[2021.12.14-21.34.10:756][687]Cmd: TRANSACTION UNDO
+[2021.12.14-21.34.10:756][687]LogEditorTransaction: Undo Move Actors
+[2021.12.14-21.34.11:494][729]Cmd: TRANSACTION UNDO
+[2021.12.14-21.34.11:494][729]LogEditorTransaction: Undo Move Actors
+[2021.12.14-21.34.12:326][779]Cmd: TRANSACTION UNDO
+[2021.12.14-21.34.12:326][779]LogEditorTransaction: Undo Move Actors
+[2021.12.14-21.34.13:077][824]Cmd: TRANSACTION UNDO
+[2021.12.14-21.34.13:077][824]LogEditorTransaction: Undo Rotate Actors
+[2021.12.14-21.34.13:910][873]Cmd: TRANSACTION UNDO
+[2021.12.14-21.34.13:910][873]LogEditorTransaction: Undo Move Actors
+[2021.12.14-21.34.16:134][  5]LogEditorViewport: Clicking on Actor (LMB): BP_CoverPoint_C (BP_CoverPoint8)
+[2021.12.14-21.34.18:122][124]LogEditorViewport: Clicking on Actor (LMB): BP_CoverPoint_C (BP_CoverPoint7)
+[2021.12.14-21.35.15:250][550]LogEditorViewport: Clicking Background
+[2021.12.14-21.35.15:796][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.35.15:818][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.12.14-21.35.15:833][582]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena15D3DE5B4ABEBD2D6CA57BA2B5625613.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.35.15:840][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.35.15:849][582]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltDataB25F07A54F3C87BCB785B0ADBD7D408E.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.35.15:860][582]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.35.15:860][582]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.35.15:860][582]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.35.29:803][419]LogEditorViewport: Clicking on Actor (LMB): BP_CoverPoint_C (BP_CoverPoint20)
+[2021.12.14-21.36.26:629][828]LogEditorViewport: Clicking Background
+[2021.12.14-21.36.27:279][867]LogEditorViewport: Clicking on Actor (LMB): BP_CoverPoint_C (BP_CoverPoint34)
+[2021.12.14-21.36.56:176][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.14-21.36.56:183][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.12.14-21.36.56:200][600]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/ArenaBF3AB2D84ABDA82582E1138CD833240C.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena.umap'
+[2021.12.14-21.36.56:207][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Arena_BuiltData" FILE="../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset" SILENT=true
+[2021.12.14-21.36.56:216][600]LogSavePackage: Moving '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Saved/Arena_BuiltData878C767248A6345DF01237BBB89FCFF6.tmp' to '../../../../../../Users/sketc/Documents/School/IGME 760/Survival/Content/Arena_BuiltData.uasset'
+[2021.12.14-21.36.56:224][600]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.14-21.36.56:224][600]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Arena_BuiltData.Arena_BuiltData
+[2021.12.14-21.36.56:224][600]LogContentValidation: Display: Validating World /Game/Arena.Arena
+[2021.12.14-21.37.16:766][832]Candidate modules for hot reload:
+[2021.12.14-21.37.16:766][832]  Survival
+[2021.12.14-21.37.16:766][832]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Survival,1280 SurvivalEditor Win64 Development -Project="C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject" "C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject"  -IgnoreJunk]
+[2021.12.14-21.37.16:768][832]Warning: Starting HotReload took  0.0s.
+[2021.12.14-21.37.18:372][925]CompilerResultsLog: New page: Compilation - Dec 14, 2021, 11:37:18 AM
+[2021.12.14-21.37.18:372][925]CompilerResultsLog: Building SurvivalEditor...
+[2021.12.14-21.37.18:372][925]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.14-21.37.18:372][925]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.12.14-21.37.18:373][925]CompilerResultsLog:   [1/3] UE4Editor-Survival-1280.lib
+[2021.12.14-21.37.18:373][925]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-1280.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-1280.exp
+[2021.12.14-21.37.18:373][925]CompilerResultsLog:   [2/3] UE4Editor-Survival-1280.dll
+[2021.12.14-21.37.18:373][925]CompilerResultsLog:      Creating library C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-1280.suppressed.lib and object C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Development\Survival\UE4Editor-Survival-1280.suppressed.exp
+[2021.12.14-21.37.18:373][925]CompilerResultsLog:   [3/3] SurvivalEditor.target
+[2021.12.14-21.37.18:373][925]CompilerResultsLog: Total time in Parallel executor: 0.82 seconds
+[2021.12.14-21.37.18:373][925]CompilerResultsLog: Total execution time: 1.53 seconds
+[2021.12.14-21.37.18:373][925]LogMainFrame: MainFrame: Module compiling took 1.610 seconds
+[2021.12.14-21.37.18:405][925]LogClass: TaskType HotReload.
+[2021.12.14-21.37.18:412][925]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-21.37.18:414][925]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-21.37.18:442][925]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-21.37.18:442][925]Display: HotReload took  1.7s.
+[2021.12.14-21.37.52:311][433]Candidate modules for hot reload:
+[2021.12.14-21.37.52:311][433]  Survival
+[2021.12.14-21.37.52:311][433]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Survival,1571 SurvivalEditor Win64 Development -Project="C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject" "C:/Users/sketc/Documents/School/IGME 760/Survival/Survival.uproject"  -IgnoreJunk]
+[2021.12.14-21.37.54:509][433]CompilerResultsLog: New page: Compilation - Dec 14, 2021, 11:37:54 AM
+[2021.12.14-21.37.54:509][433]CompilerResultsLog: Invalidating makefile for SurvivalEditor (source file added)
+[2021.12.14-21.37.54:509][433]CompilerResultsLog: Building SurvivalEditor...
+[2021.12.14-21.37.54:509][433]CompilerResultsLog: Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.14-21.37.54:509][433]CompilerResultsLog: Building 4 actions with 16 processes...
+[2021.12.14-21.37.54:509][433]CompilerResultsLog:   [1/4] HideTask.cpp
+[2021.12.14-21.37.54:509][433]CompilerResultsLog:   C:\Users\sketc\Documents\School\IGME 760\Survival\Source\Survival\AI\HideTask.cpp(4): fatal error C1083: Cannot open include file: 'AI/HideTask.h': No such file or directory
+[2021.12.14-21.37.54:509][433]LogMainFrame: MainFrame: Module compiling took 2.201 seconds
+[2021.12.14-21.37.54:509][433]Warning: HotReload failed, recompile failed
+[2021.12.14-21.37.54:509][433]Warning: RebindPackages failed because compilation failed.
+[2021.12.14-21.37.55:593][433]LogSlate: Window 'Message' being destroyed
+[2021.12.14-21.37.55:596][433]Message dialog closed, result: No, title: Message, text: Successfully added class 'HideTask', however you must recompile the 'Survival' module before it will appear in the Content Browser. Failed to automatically hot reload the 'Survival' module.
+
+Would you like to open the Output Log to see more details?
+[2021.12.14-21.37.55:596][433]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.12.14-21.48.24:731][382]LogHotReload: New module detected: UE4Editor-Survival-0192.dll
+[2021.12.14-21.48.25:416][385]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-21.48.25:463][385]LogClass: Could not find existing class TankAI in package /Script/Survival for HotReload, assuming new class
+[2021.12.14-21.48.25:464][385]LogClass: TaskType HotReload.
+[2021.12.14-21.48.25:473][385]LogHotReload: Re-instancing TankAI after hot-reload.
+[2021.12.14-21.48.25:480][385]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Survival' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.12.14-21.48.25:481][385]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2021.12.14-21.48.25:510][385]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0111 seconds. Added 3611 classes and 867 folders.
+[2021.12.14-21.48.25:513][385]Display: HotReload took  0.1s.
+[2021.12.14-21.58.06:675][120]LogHotReload: New module detected: UE4Editor-Survival-0196.dll
+[2021.12.14-21.58.07:358][123]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.14-21.58.07:403][123]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.12.14-21.58.07:403][123]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2021.12.14-21.58.09:024][123]LogWindows: Error: === Critical error: ===
+[2021.12.14-21.58.09:024][123]LogWindows: Error: 
+[2021.12.14-21.58.09:024][123]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp] [Line: 2381] 
+[2021.12.14-21.58.09:024][123]LogWindows: Error: Objects have the same fully qualified name but different paths.
+[2021.12.14-21.58.09:024][123]LogWindows: Error: 	New Object: TankAI /Engine/Transient.Default__TankAI
+[2021.12.14-21.58.09:024][123]LogWindows: Error: 	Existing Object: HOTRELOADED_TankAI_0 /Engine/Transient.Default__TankAI
+[2021.12.14-21.58.09:024][123]LogWindows: Error: 
+[2021.12.14-21.58.09:024][123]LogWindows: Error: 
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffb328d4f69 KERNELBASE.dll!UnknownFunction []
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffa88b3d066 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffa88b407a8 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffa8884e8cd UE4Editor-Core.dll!UnknownFunction []
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffa8826be77 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffb001a4361 UE4Editor-Survival-0196.dll!ATankAI::__VTableCtorCaller() [C:\Users\sketc\Documents\School\IGME 760\Survival\Source\Survival\AI\TankAI.h:17]
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffa87f701db UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffa87f6d6ed UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffb001ab59b UE4Editor-Survival-0196.dll!ATankAI::GetPrivateStaticClass() [C:\Users\sketc\Documents\School\IGME 760\Survival\Intermediate\Build\Win64\UE4Editor\Inc\Survival\TankAI.gen.cpp:142]
+[2021.12.14-21.58.09:024][123]LogWindows: Error: [Callstack] 0x00007ffb001ab3cf UE4Editor-Survival-0196.dll!TClassCompiledInDefer<ATankAI>::Register() [C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject\UObjectBase.h:301]
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa8821d8ed UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa88202831 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa88132305 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa888899ea UE4Editor-Core.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa888b12a8 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa888b0328 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa6ab3afc7 UE4Editor-HotReload.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa6ab3acc8 UE4Editor-HotReload.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa6ab4ca12 UE4Editor-HotReload.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffa8860e708 UE4Editor-Core.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ff64349d07d UE4Editor.exe!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ff6434b117c UE4Editor.exe!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ff6434b125a UE4Editor.exe!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ff6434c52bd UE4Editor.exe!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ff6434c7fea UE4Editor.exe!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffb34af7034 KERNEL32.DLL!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: [Callstack] 0x00007ffb34f02651 ntdll.dll!UnknownFunction []
+[2021.12.14-21.58.09:025][123]LogWindows: Error: 
+[2021.12.14-21.58.09:042][123]LogExit: Executing StaticShutdownAfterError
+[2021.12.14-21.58.09:087][123]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.12.14-21.58.09:087][123]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.12.14-21.58.09:097][123]Log file closed, 12/14/21 16:58:09

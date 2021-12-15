@@ -19,8 +19,24 @@ public:
 
 	virtual void Fire() override;
 
+	float GetMaxHealth() const { return HealthComponent->GetMaxHealth(); }
+
+	bool GetTankSize() const { return bIsBigTank; }
+
+	void StartFiring();
+	bool IsFiring();
+	void StopFiring();
+
 private:
+	UPROPERTY(EditDefaultsOnly)
+	bool bIsBigTank;
+
+	UPROPERTY(EditDefaultsOnly)
+	float FireRate = 0.5f;
+	
 	class APlayerTank* PlayerTank;
+
+	FTimerHandle FireTimer;
 
 protected:
 	// Called when the game starts or when spawned
